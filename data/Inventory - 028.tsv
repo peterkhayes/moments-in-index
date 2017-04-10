@@ -1,0 +1,50 @@
+User ID #	Item #	Item Type	Item Type Modifier	Category	Category Item #	Description	Nearby
+028	001	CLOTHING	01	On the Floor	001	Three pairs shoes; cobalt blue flats, blue jean and tan leather sneakers, leapord-print pumps	PLASTIC DRAWERS(02)
+028	002	RUGS		On the Floor	002	Deep red and gold rug, folded up into a rectangle on top of a pile of clothing and shoes	SUEDE BOOTS, BATHROOM DOOR
+028	003	CLOTHING	02	On the Floor	003	Pile of mixed clothes and shoes (sitting beneat red and gold rug); grey suede boots, black jacket, black jeans, purse, etc	FOLDED RUG, BATHROOM DOOR
+028	004	PAPERS	01	On the Floor	004	White steno notepad, open to the third page; contains hand-written notes about family relationship history (?)	PLASTIC DRAWERS(01), LAPTOP, SUN CHIPS
+028	005	FOOD		On the Floor	005	Open bag of Veggie Harvest flavor Sun Chips	LAPTOP, STENO NOTEPAD, BEDSIDE TABLE
+028	006	ELECTRONICS	01	On the Floor	006	Closed 11" macbook air	SUN CHIPS, STENO NOTEPAD, BEDSIDE TABLE
+028	007	BOOKS	01	On the Floor	007	Open and upside-down book, resting beneath laptop; also misc pile of books and papers (one envelope says "DO NOT THROW AWAY"	SUN CHIPS, STENO NOTEPAD, BEDSIDE TABLE
+028	008	WALKING AIDS		On the Floor	008	Wooden cane with copper duck head on top	PLASTIC DRAWERS(01), CABLE
+028	009	CORDS	01	On the Floor	009	Black cable wire coming from hole in wall, unattachd on copper end	PLASTIC DRAWERS(01), DUCK HEAD CANE
+028	010	CLOTHING	03	On the Floor	010	Six (?) pairs of shoes piled underneath stacks of papers; matte black pumps, purple Uggs, grey and pink Reebok running sneakers, grey toeless pumps, shiny black pumps	PAPERS, STRAIGHTENING IRON, ALL-PURPOSE CLEANER
+028	011	PAPERS	02	On the Floor	011	3 individual 1" stacks of papers, held together with large black clips; card in purple envelope with pink ribbon	PILE OF SHOES, ALL-PURPOSE CLEANER, STRAIGHTENING IRON
+028	012	HAIR CARE	01	On the Floor	012	Black pony tail holder	PILE OF SHOES, PAPERS
+028	013	HAIR CARE	02	On the Floor	013	Purple straightening iron, white blow drier attachment (diffuser?)	ALL-PURPOSE CLEANER, PILE OF SHOES, PAPERS
+028	014	CLEANING PRODUCTS		On the Floor	014	Method All-purpose cleaner (cuts oil and grease!), purple liquid; almost empty	PILE OF SHOES, STRAIGHTENING IRON, BOOKSHELF
+028	015	CORDS	02	On the Floor	015	Large black wifi router, white extension cord, misc green and yellow cords	BED, CLOSET(02)
+028	016	DRAWERS	01	Furniture	001	Room Essentials 3-drawer cart (casters included!), translucent dark blue; inside can see orange ball, $1 bill, fabric, socks, pens, gold chain, wires	BATHROOM DOOR, BEDSIDE TABLE, DUCK HEAD CANE
+028	017	PERSONAL ITEMS	01	Furniture	002	Stack of Tommy Hilfiger ankle socks (unopened), grey leaf-shaped ash tray with four blunts (smoked), tape measure, porcupine notepad, pen, small neon green keys, wadded paper towel (containing one quarter), perfume jar with golden honeycomb top, tube of mostly-used make-up (?)	DRAWERS(01)
+028	018	BEDSIDE TABLE		Furniture	003	Simple black bedside table faux (?) wood	BED, BLUE DRAWERS(01)
+028	019	ELECTRONICS	02	Furniture	004	Viewsonic projector (still in plastic wrap), USB to plug converter	BEDSIDE TABLE
+028	020	BEVERAGES		Furniture	005	One tall glass of water	BEDSIDE TABLE
+028	021	MEDICINES	01	Furniture	006	Large bottle of Country Life Coenzyme B-Complex Caps, one pull-tear plastic packet of Benadryl	BEDSIDE TABLE
+028	022	MONEY		Furniture	007	Porcelain seashell full of spare change, keyring, and a few button pins	BEDSIDE TABLE
+028	023	ART		Furniture	008	Brass snail statue	BEDSIDE TABLE
+028	024	PERSONAL ITEMS	02	Furniture	009	Pink plastic massager, silver and either rhinestone or diamond earrings, necklace, gold bangle bracelet	BEDSIDE TABLE
+028	025	BED		Furniture	010	Full bed (unmade) with white and blue paisley sheets, koala bear (?) comforter	WINDOW, BEDSIDE TABLE
+028	026	PILLOWS		Furniture	011	Two matching pillows in pillow cases (white and blue paisley, matching sheets)	BED
+028	027	BOOKS	02	Furniture	012	Rainer Maria Rilke's Notebooks, Slavoj Zizek Ein Sachcomic (closed)	BED
+028	028	ELECTRONICS	03	Furniture	013	11" Macbook Air, open (black screen); orange post-it note with hand-drawn star stuck to top	BED
+028	029	PAPERS	03	Furniture	014	Shiny black flowery/paisley notebook (embossed); closed	BED
+028	030	MEDICINES	02	Furniture	015	Four packets of daily medicines, stacked	BED
+028	031	LIGHTERS		Furniture	016	Black Bic lighter	BED
+028	032	ELECTRONICS	04	Furniture	017	iPhone in brown case (black screen)	BED
+028	033	CLOTHING	04	Furniture	018	Black lacey bra, pair of boots, jacket, one sock, red sweater	UNDER BED
+028	034	PAPERS	04	Furniture	019	Two wadded paper towels (in different locations)	UNDER BED
+028	035	GLASSWARE		Furniture	020	White coffee mug	UNDER BED
+028	036	CABINETS		Furniture	021	Tall/slender wood and glass curio cabinet (four shelves)	BLUE DRAWERS(02), PILE OF SHOES, PAPERS
+028	037	PERSONAL ITEMS	03	Furniture	022	On all four shelves plus top of curio cabinet: lotion, empty Trader Joe's bag, stack of books, henna ink, zippered leather bag, white earbud headphones, USPS cardboard mailer, white and mauve eye (?) glitter, chapbook, painted sneaker, uracel batteries, folded hand-written papers, Russian nesting dolls, deer head statue, silver buddha (?) statue with several heads (depending on how it's turned), silver bucket containing flowers	CURIO CABINET
+028	038	DRAWERS	02	Furniture	023	Room Essentials 3-drawer cart (casters included!), translucent dark blue; inside can see socks, boxers (?)	CURIO CABINET, LEAPORD-PRINT PUMPS
+028	039	CLOTHING	05	Furniture	024	White and green scarf	DRAWERS(02)
+028	040	DOORS	01	On the Walls	001	White fold and slide wooden door with one knob, leads to closet; inside can see (piled on floor) cardboard box, plastic bags, grey towel, maroon sweater, red sweater, gold canvas (?)	ENTRY DOOR
+028	041	DOORS	02	On the Walls	002	White wooden door with silver knob and deadbolt; entry door	CLOSET(01), COBALT BLUE FLATS
+028	042	POSTERS		On the Walls	003	One old and slightly ripped picture of an alligator that says "Florida" in blue 'fun' lettering, one poster of PANGEA OPTIMA (A New Supercontinent to Advance Geopolitics, by Jonathan Keats) held up on all four corners by clear tape that is unpeeling	BATHROOM, PILE OF CLOTHING, RED AND GOLD RUG
+028	043	DOORS	03	On the Walls	004	Bathroom door; inside can see commode (on top of which is brush, lotions, book, make-up)	PILE OF CLOTHING, RED AND GOLD RUG, BLUE DRAWERS(01)
+028	044	POSTERS	01	On the Walls	005	Six porcupine pages (presumably from porcupine notebook on blue drawers), one very large hand-written letter, envelope from said letter (?) with an 'I Voted!' sticker on it, map of 'Hetch Hetchy Water and Power Development City and County of San Francisco' (circular hand-written note attached on top of map)	BLUE DRAWERS(01), DUCK HEAD CANE, BEDSIDE TABLE
+028	045	WINDOWS		On the Walls	006	Large white painted window with off-white blinds (up); pen top sitting on windowsill	BED
+028	046	DOORS	04	On the Walls	007	White fold and slide wooden door with one knob, leads to closet 02; inside can see hung-up clothing on hanger (dresses, sweaters)	BED, HALLWAY
+028	047	HALLWAYS		On the Walls	008	Large open hall leads to living room (it is a flat)	CLOSET(02), BED
+028	048	POSTERS	02	On the Walls	009	Red background with Bangladeshi/Indian (?) woman gasping with her hand to her mouth	CURIO CABINET
+028	049	POSTERS	03	On the Walls	010	White poster with red and blue lettering, reads HUND--[partially obscured], 100 poets 2 weeks every night at 7PM	CURIO CABINET, ENTRY DOOR, BLUE DRAWERS(02)

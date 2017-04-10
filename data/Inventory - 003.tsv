@@ -1,0 +1,80 @@
+User ID #	Item #	Item Type	Item Type Modifier	Category	Category Item #	Description	Nearby
+003	001	CLOTHING	01	On the Floor	001	Four pairs of boots, one military (black), one cowboy (brown), two modern (black)	DRAFTING BOARD (?), DESK, DOOR
+003	002	BAGS	01	On the Floor	002	Blue plastic Ikea (?) bag, underneath shoes	BOOTS, DESK, DOOR
+003	003	EQUIPMENT		On the Floor	003	Black plastic object turned on its side: about 2' square, in the shape of a wedge; drafting board (?)	DESK, IKEA (?) BAG
+003	004	TRASH CAN		On the Floor	004	White with black hearts; filled with plastic grocery bags	TALL DRAWERS, BOOKS
+003	005	BOOKS	01	On the Floor	005	Vertical stack of nine books (from the bottom up): The Wizards of Armageddon, _______, Entropy: Into the Greenhouse World, Surprise Attack, Science, Strategy and War (upside-down), _______, The Crest of the Peacock by George Cheverghese Joseph	TALL DRAWERS, TRASH CAN
+003	006	CLOTHING	02	On the Floor	006	One pair of folded black socks	TALL DRAWERS, BOOKS
+003	007	CLOTHING	03	On the Floor	007	One pair of rolled black socks	TALL BOOTS, SHIRT
+003	008	CLOTHING	04	On the Floor	008	Tall boots, probably to the upper calf, lace all the way up; black	ROLLED UP SOCKS, SHIRT
+003	009	CLOTHING	05	On the Floor	009	Pile of clothing: beige button-down shirt, something dark purple that appears to be a wool sweater, olive green military coat	TALL BOOTS, TALL DRESSER
+003	010	WEAPONS		On the Floor	010	Leather knife holster, closed	BOOKS
+003	011	BAGS	02	On the Floor	011	Large black duffel bag, contains: Salvador Dali t-shirt (ripped and old), lipstick, space blanket	TALL DRAWERS, SHOULDER BAG
+003	012	BAGS	03	On the Floor	012	Light brown leather shoulder bag, contains: paper, scarf, white charger cord, drafting equipment, bible, hell bank notes, wacom tablet	DUFFEL BAG, BED
+003	013	BAGS	04	On the Floor	013	Large light brown leather suitcase; unzipped but closed	DRESSER
+003	014	CLOTHING	06	On the Floor	014	One pair of black low-top leather shoes, belt, misc white and black items	LAUNDRY BASKET, EMPTY CARDBOARD BOX
+003	015	CLOTHING		On the Floor	015	Flexible mesh and wire; filled ot the top with clothing	ROLLING CHAIR, LEATHER SHOES
+003	016	BOXES	01	On the Floor	016	Two empty cardboard boxes: one reads "new! conveinence package" one reads "whip-it!"	PAPER GROCERY BAG, SLEEPING BAG
+003	017	BAGS	05	On the Floor	017	Large paper grocery bag; filled with mismatched chess pieces	SLEEPING BAG, CARDBOARD BOXES
+003	018	ELECTRONICS	01	On the Floor	018	One white plastic electric fan	BED, WINDOW
+003	019	BOOKS	02	On the Floor	019	Scattered papers and books: Searching for Utopia, A Visual Guide to the World of Machines, Sound: an Introduction, Shotgut Players present Hamlet (a program for a play), "Bee" brand playing cards, some papers contain fairly incoherent concept art (black pen)	BED, FAN
+003	020	PAPERS	01	On the Floor	020	From Green Apple Books; total $9.79, got $0.21 in change back	DESK, ROLLING CHAIR
+003	021	BAGS	06	On the Floor	021	Pile of bags and boxes: black zip-up bag, brown paper grocery bag (Trader Joe's), Pretty white bag with silk print flowers, round cardboard carrier tube, misc cardboard boxes	DESK, TOOL BOX
+003	022	ELECTRONICS	02	On the Floor	022	Black, red end plugs	DESK, SUITCASE, ROLLING CHAIR
+003	023	BLANKETS		On the Floor	023	Beige sleeping bag peeping from the top of a blue outer carry bag	CARDBOARD BOXES, WINDOW
+003	024	ELECTRONICS	03	On the Floor	024	USB to iPhone cord, white	DESK, ROLLING CHAIR, BLACK CORD
+003	025	DESKS		Furniture	001	Large brown wooden computer desk; three drawers down one side, open shelves on the other.	ROLLING CHAIR, SUITCASE
+003	026	ELECTRONICS	04	Furniture	002	Black PC tower	DESK
+003	027	PAPERS	03	Furniture	003	Spiral-bound notebook, folders, paper	DESK
+003	028	BOOKS	03	Furniture	004	Three books where the keyboard should go: The C Programming Language, Panorama Island, and Kevin Kelly's Cool Tools	DESK
+003	029	LIGHTING	01	Furniture	005	Silver lamp with dried white rose suspended upside-down from the neck	DESK
+003	030	PLATEWARE		Furniture	006	Small white bowl with one key, many pennies, and two tubes of chapstick (different colors)	DESK
+003	031	STRINGS		Furniture	007	A roll of twine	DESK
+003	032	ELECTRONICS	05	Furniture	008	Two white speakers	DESK
+003	033	PAPERS	02	Furniture	009	A Delivery Note, hand-scribbled note ("a blessing for M+M"), flow charts (?), a few crumpled receipts	DESK
+003	034	BOXES	02	Furniture	010	White plastic container containing batteries of varying sizes (AA to D, mostly D)	DESK
+003	035	MONEY		Furniture	011	One stack of nickels, one of dimes, one of pennies	DESK
+003	036	TRASH		Furniture	012	Wrigley's gum wrapper, discarded	DESK
+003	037	PERSONAL CARE		Furniture	013	One comb, one brush; both in same style (yellow handle, black top)	DESK
+003	038	ELECTRONICS	06	Furniture	014	Black kindle	DESK
+003	039	TOYS		Furniture	015	Toy skeleton holding scythe (resembles GI Joe design), two dice that look chewed on (?) or otherwise very scratched	DESK
+003	040	LIGHTING	02	Furniture	016	One lightbulb, not plugged in to anything	DESK
+003	041	TOOLS		Furniture	017	One flashlight (standing upright), one C-clamp (small, orange), small screwdriver	DESK
+003	042	PAPERS	04	Furniture	018	Leather portfolio folder, very thick; contains manilla envelopes	DESK
+003	043	GLASSES		Furniture	019	One light blue glasses case	DESK
+003	044	JEWELRY		Furniture	020	Two metal bracelets (copper), one bolo tie, one leather-strapped necklace with silver metal cross	DESK
+003	045	ELECTRONICS	07	Furniture	021	One microphone, not plugged in	DESK
+003	046	ELECTRONICS	08	Furniture	022	Large black PC flat screen	DESK
+003	047	PERFUMES		Furniture	023	Three packs of incense	DESK
+003	048	MEDICINES		Furniture	024	Four orange bottles, three with blue lids; 	DESK
+003	049	TAPE		Furniture	025	Blue painters tape	DESK
+003	050	CHAIRS		Furniture	026	Black leather rolling chair	DESK, LAUNDRY BASKET
+003	051	CLOTHING	07	Furniture	027	Charcoal blazer, hung over chair back	CHAIR
+003	052	CLOTHING	08	Furniture	028	Black thermal shirt	CHAIR
+003	053	DRESSER		Furniture	029	Tall black set of drawers: six drawers total	TRASH CAN, BOOKS, DUFFEL BAG
+003	054	CLOTHING	09	Furniture	030	Pile of clothing, mostly dark or black: jeans, jacket, pants, vest, coat	TALL DRAWERS
+003	055	MISC		Furniture	031	Other books and boxes, barely visible beneath pile of clothing	TALL DRAWERS
+003	056	BED		Furniture	032	Single bed, no headboard, low to the ground. Dark and light blue striped sheets, beige comforter, grey throw cover	WINDOW, SHELVES
+003	057	PILLOWS		Furniture	033	One pillow with grey pillowcase	BED
+003	058	PERSONS		Furniture	034	One woman	BED
+003	059	ELECTRONICS	09	Furniture	035	One macbook, covered in stickers	BED
+003	060	ELECTRONICS	10	Furniture	036	Full ear cover earphones	BED
+003	061	BOOKS	04	Furniture	037	One book with a make-shift paper bookmark: War in the Age of Intelligent Machines	BED
+003	062	ELECTRONICS	11	Furniture	038	One smartphone, LG	BED
+003	063	SHELVES		Furniture	039	Tall black bookshelf with four shelves, widely spaced apart	BED, TALL DRAWERS
+003	064	BOOKS	05	Furniture	040	At least 100 books	BOOKSHELF
+003	065	BOXES	03	Furniture	041	Red plastic translucent box: appears to contain misc cloth and electronic items	BOOKSHELF
+003	066	PAPERS	05	Furniture	042	Very tall stack of papers; top sheet is graph paper and contains coordinate planes, then a layer of yellow lined paper, then another layer twice as thick of white lined paper	BOOKSHELF
+003	067	BOXES	04	Furniture	043	Small red drawers with missing top; used as file cabinet (?)	BOOKSHELF
+003	068	BOXES	05	Furniture	044	Black wire mesh stationery organizer: contains pens, clips, misc	BOOKSHELF
+003	069	DOORS	01	On the Walls	001	Door that is used to enter bedroom: painted white/cream	DESK, TALL DRAWERS
+003	070	PAPERS	06	On the Walls	002	Single page of sheet music, taped to wall with white scotch tape	FLOWER DRAWING, PINBOARD
+003	071	PINBOARDS		On the Walls	003	Cork pinboard: mostly photoes, BART pass, one blue ribbon that says "1st Place"	MUSIC SHEET, FLOWER DRAWING
+003	072	ART		On the Walls	004	Crayon drawing of two yellow tulips; matted and framed	PINBOARD, MUSIC SHEET
+003	073	DOORS	02	On the Walls	005	Sliding closet doors, painted white/cream; one side open	DESK, ROLLING CHAIR
+003	074	TOOLBOX		On the Walls	006	Craftsman toolbox on roller wheels, approximately 4 feet tall; red	CLOSET
+003	075	CLOTHING	10	On the Walls	007	Clothes on hangers: four sportcoats, one leather jacket, one belt, empty plastic hangars	CLOSET
+003	076	BOXES	06	On the Walls	008	Cardboard box, appears to contain purple fabrics (?)	CLOSET
+003	077	BOXES	07	On the Walls	009	White metal box, locked (?)	CLOSET
+003	078	WINDOWS		On the Walls	010	Double window with white and blue curtains, halfway open (from middle out)	BED
+003	079	WALLS		On the Walls	011	White, yellowed (?) or just dim lighting	N/A

@@ -1,0 +1,64 @@
+User ID #	Item #	Item Type	Item Type Modifier	Category	Category Item # (Proximity to Entry Door)	Description	Nearby/Atop
+000	001	CLOTHING	01	On the Floor	001	Pile of clothing, haphazard arrangement; most items are black, one shirt is translucent white with a flower pattern	PURSE, BOOKS, BED
+000	002	BOOKS	01	On the Floor	002	6 stacked books; top book reads Bird by Bird by Ann Lamott	CLOTHING, PURSE, BED
+000	003	BAGS	01	On the Floor	003	Brown leather purse with Native American patterning	CLOTHING, BOOKS, BED
+000	004	BOOKS	02	On the Floor	004	Appears to be magazine; title reads California Blacksmith	CLOTHING, BOOKS
+000	005	MONEY	01	On the Floor	005	Large check, crease in center as though it had previously been folded in half; indescernible amount	PAIN OINTMENT, BED
+000	006	ELECTRONICS	01	On the Floor	006	Two white chargers, plugged into outlet; one for mac computer, one for LG phone	BOOKS, CLOTHING, CHECK, BED
+000	007	MEDICINES	01	On the Floor	007	Orange box, appears to be open and discarded; reads Pain Relief Cream	CHECK, BED
+000	008	CUPS	01	On the Floor	008	White coffee mug	PAIN OINTMENT, BED, CHECK
+000	009	CLOTHING	02	On the Floor	009	Two black shoes, low-top Vans, shoelaces still tied; two black socks beside shoes	BED
+000	010	BAGS	02	On the Floor	010	Brown grocery store paper bag; inside contains balled-up clothing; the word Autodesk is visible on the front of one t-shirt	NIGHTSTAND, EMPTY VASE
+000	011	JARS		On the Floor	011	One clear glass Ball jar, one clear class flower vase; both are empty	NIGHTSTAND, GROCERY BAG
+000	012	MISC	01	On the Floor	012	Scrap of 2x4 dark wood; ebony?	NIGHTSTAND, EMPTY VASE, GROCERY BAG
+000	013	CLOTHING	03	On the Floor	013	Two purple flip-flops	NIGHTSTAND
+000	014	CLOTHING	04	On the Floor	014	White plastic laundry basket, filled to 1/3 with clothing; mostly underwear	BED, CLOTH BAG
+000	015	BAGS	03	On the Floor	015	Grey cloth bag; contents not visible	BED, CHAPSTICK
+000	016	PERSONAL CARE		On the Floor	016	One tube of chapstick; label reads HURRAW!	BED, CLOTH BAG, SKIRT
+000	017	CLOTHING	05	On the Floor	017	Two folded grey wool skirts	CLOTH BAG, CHAPSTICK, LAUNDRY BASKET
+000	018	CLOTHING	06	On the Floor	018	Stack of folded t-shirts, mostly grey, one green, one bright yellow	LAUNDRY BASKET
+000	019	BOTTLES		On the Floor	019	Two empty mineral water bottles; one Pellegrino, one Gerolsteiner	GARBAGE CAN, DRESSER, SMALL RUG
+000	020	CLOTHING	07	On the Floor	020	Overflowing with dirty (?) clothing; mostly t-shirts, jeans, and socks visible	FOLD-UP TABLE, CHAIR, BRIEFCASE
+000	021	TRASH		On the Floor	021	Sliver of a discarded silver wrapper	GARBAGE CAN, DRESSER, SMALL RUG
+000	022	SCALES		On the Floor	022	Taylor body weight scale with body fat sensors	CLOSED DOOR, DRESSER, SMALL RUG
+000	023	TABLES	01	On the Floor	023	White plastic fold-up table and black plastic chair are collapsed and leaning against the wall	CURTAIN, BRIEFCASE, CLOSED DOOR
+000	024	BOXES	01	On the Floor	024	Flattened cardboard box is leaning against wall, thicker piece of cardboard is laying on floor	CLOSED DOOR, BRIEFCASE, LAUNDRY BASKET
+000	025	BRIEFCASES		On the Floor	025	Black leather, combination lock required to open; unknown contents	CURTAIN, CHAIR, CARDBOARD
+000	026	BAGS	04	On the Floor	026	Two bags; one black cloth, one grey plastic with taxi cab on front which reads: If you hate waiting raise your hand	BLACK BOX, MIRROR
+000	027	BOXES	02	On the Floor	027	Black box with silver grommets, open; inside is paper, workable fixatif, red transfer paper, and greeting cards	BLACK CLOTH BAG
+000	028	BED		Furniture	001	A low-to-the-ground bed with no headboard, black; unmade	BOOKS, COMPUTER CORD, PURSE
+000	029	BLANKETS		Furniture	002	Grey flannel sheets; comforter is white and slightly dirty	BED
+000	030	PILLOWS		Furniture	003	One thin pillow with gold striped pillowcase, one thick pillow with no pillowcase	BED
+000	031	TOYS		Furniture	004	Stuffed animal orange cat, about eight inches long	BED
+000	032	BAGS	05	Furniture	005	Black backpack	BED
+000	033	CLOTHING	08	Furniture	006	Black and dark blue winter coat; grey t-shirt	BED
+000	034	TABLES	02	Furniture	007	Blue nightstand with two drawers and a faux wood top; pink, white and brass drawer knobs	NIGHTSTAND
+000	035	CUPS	02	Furniture	008	16oz clear glass with water drops trailing down the inside; otherwise empty	NIGHTSTAND
+000	036	SILVERWARE		Furniture	009	Spoon that looks like it had been used to eat something white	NIGHTSTAND
+000	037	MEDICINES	02	Furniture	010	Arranged in a clump; Doctor's Best Vitamin D, Calcium D Glucarate, Lysine, a small green Nature's Bounty bottle, three others unreadable	NIGHTSTAND
+000	038	WRITING IMPLEMENTS		Furniture	011	One black ballpoint pen; one chisel tip sharpie	NIGHTSTAND
+000	039	BOOKS	03	Furniture	012	Thick stack of papers, blue folder, small stack of books (some spines are visible); titles are George Washington Poems by Adam Fitzgerald, State of Grace by Joy Williams, ________ Choice by Alejandro _____	NIGHTSTAND
+000	040	TOOLS		Furniture	013	Flathead screwdriver with black and yellow handle, pliers	NIGHTSTAND
+000	041	BAGS	06	Furniture	014	White canvas bag; misc contents including two checkbooks and silver duct tape	NIGHTSTAND
+000	042	DRESSERS		Furniture	015	White painted dresser, six pink and brass drawer knobs, three drawers	SCALE, TRASH CAN, LAMP
+001	043	PAPERS	01	Furniture	016	Folded piece of paper; outside has a phone number hand-written in black ink	NIGHTSTAND
+000	044	BOXES	03	Furniture	017	Pink jewelry box in the shape of a dresser, five drawers (all closed)	DRESSER
+000	045	GLASSES		Furniture	018	Dark brown sunglasses	DRESSER
+000	046	BOOKS	04	Furniture	019	Blue book, still in plastic wrap; cover is in Chinese	DRESSER
+000	047	BOXES	04	Furniture	020	Small black box; closed	DRESSER
+000	048	BAGS	07	Furniture	021	Small grey satchel; contains pearl jewelry	DRESSER
+000	049	MONEY	02	Furniture	022	One quarter and one nickel	DRESSER
+000	050	ELECTRONICS	02	Furniture	023	Zoom voice recorder	DRESSER
+000	051	ENVELOPES		Furniture	024	Orange manilla envelope with two stamps, struckthrough as though already mailed; unknown contents	DRESSER
+000	052	PAPERS	02	Furniture	025	Hand-written cursive note, propped against gold frame	DRESSER
+000	053	OFFICE SUPPLIES		Furniture	026	One blue paper clip	DRESSER
+000	054	MISC	02	Furniture	027	Two round silicon (?) discs	DRESSER
+000	055	LIGHTING		Furniture	028	Faux iron floor lamp with faux animal skin shade; dark brown	NIGHTSTAND, DRESSER, TRASH CAN
+000	056	TRASH CAN		Furniture	029	Black wire trash can with white garbage bag; contents: Cliff protein bar box (orig held 18 bars), several discarded protein bar wrappers, white paper	LAMP, NIGHTSTAND, TRASH CAN
+000	057	WALLS		On the Walls	001	White, scuffed	N/A
+000	058	DOORS	01	On the Walls	002	Four total: one allows for entry into room, one is closed, two are covered with mirrors and are for the closet (partially ajar)	WALL
+000	059	PICTURES	01	On the Walls	003	Professional photograph of a street festival; wooden frame	LAMP, NIGHTSTAND
+000	060	ART	01	On the Walls	004	Three Frank Lloyd Wright textile patters, arranged one on top of the other going down wall	TABLE & CHAIRS, CURTAIN
+000	061	PICTURES	02	On the Walls	005	Seveal postcards (?) of a day at the beach	CLOSET
+000	062	DOORS	02	On the Walls	006	Mirrored sliding door closet, slightly ajar, visible is: orange trigger point therapy foam roller, large folded foam object (?), small green bag, large grey Samsonite suitcase	BEACH POSTCARDS
+000	063	ART	02	On the Walls	007	Cluster of three: beige textile pattern, Victorian woman wearing a large hat and looking at a bird, contemporary drawing (in black pen) of a tornado and a broken mirror	DRESSER, LAMP

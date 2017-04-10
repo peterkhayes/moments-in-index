@@ -1,0 +1,7 @@
+{
+  "extends": "classdojo/node",
+  "rules": {
+    "react/jsx-key": 0,
+    "react/prop-types": 0
+  }
+}
