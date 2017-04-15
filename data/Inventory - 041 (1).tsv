@@ -1,0 +1,102 @@
+User ID #	Item #	Item Type	Item Type Modifier	Category	Category Item #	Description	Nearby
+041	000	LOSS		[missing]		Romantic relationship: mutual decision, date agreed upon in advance	
+041	001	BOXES	01	On the Floor	001	Unopened Clarks shoes box containing pair of Indoor + Outdoor slippers (from Marshall's, $12.00)	ENTRY DOOR, MIRROR
+041	002	MIRRORS		On the Floor	002	Full-length mirror with black frame (propped against wall)	SHOEBOX, BOOKSHELF
+041	003	TRASH	01	On the Floor	003	One small magenta flower petal, a few dustbunnies, stray hairs	MIRROR, BOOKSHELF, YOGA MAT
+041	004	MATS		On the Floor	004	Black yoga mat rolled and fastened with black straps (propped against wall)	BOOKSHELF, ROLLING DRAWERS
+041	005	SCALES		On the Floor	005	Glass bodyweight scale (propped vertically against bookshelf)	BOOKSHELF, YOGA MAT, ROLLING DRAWERS
+041	006	PERSONAL ITEMS	01	On the Floor	006	Two black ponytail holders	BOOKSHELF, SCALE
+041	007	TRASH	02	On the Floor	007	Wicker trash bin; contains two Walgreen's receipts, one Opera House pamphlet	WARDROBE (01), LAUNDRY BASKET, FIREPLACE
+041	008	BASKETS	01	On the Floor	008	Navy blue cloth foldable laundry basket: contains socks, shirts, a bra, and underwear (mostly red or pink, some black)	TRASH BIN, FIREPLACE, JEANS
+041	009	CLOTHING	01	On the Floor	009	Pair of black jeans, one leg turned inside-out	LAUNDRY BASKET, FIREPLACE
+041	010	WEIGHTS		On the Floor	010	Two uniformly-sized black iron dumbbells	JEANS, FIREPLACE, LAUNDRY BAG
+041	011	BAGS	01	On the Floor	011	Teal laundry bag, folded into a square (reads: __UNDRY, __________.com)	DUMBBELLS, JEANS, FIREPLACE
+041	012	PIPES		On the Floor	012	Pipe (coming from fireplace wall) with a brass turn knob, covered in dust	DUMBBELLS, LAUNDRY BAG, FIREPLACE
+041	013	TRASH	03	On the Floor	013	Small crumpled piece of soft plastic packaging	RUG, WARDROBE (02)
+041	014	BOOKS	01	On the Floor	014	"All About Love" by Bell Hooks (black cover with red type)	BED, RUG
+041	015	TARGETS		On the Floor	015	Two bb gun (?) targets, one with yellow, red, and blue colors (no puncture holes), one black and white (many puncture holes)	WARDROBE (02), LARGE NOTEBOOK
+041	016	PAPERS	01	On the Floor	016	Large black sidebound notebook (approx 2' tall), propped against wall	TARGETS, WINDOWS, TABLE
+041	017	TRASH	04	On the Floor	017	Several small magenta petals	TABLE, WINDOWS
+041	018	CLOTHING	02	On the Floor	018	Pair of white and pink flip-flop sandals, aged	TABLE, MACBOOK CHARGER, PEN
+041	019	WRITING IMPLEMENTS	01	On the Floor	019	Micron 01 dark purple pen	TABLE, MACBOOK CHARGER, FLIP-FLOPS
+041	020	CORDS		On the Floor	020	Extension cord, two Macbook chargers, one iPhone charger (all white)	TABLE, BED, WHITE DRAWERS
+041	021	COMPUTERS	01	On the Floor	021	Macbook Pro (propped vertically against bed)	BED, WHITE DRAWERS, CORDS
+041	022	BAGS	02	On the Floor	022	Black leather purse with gold buckles; on top is a 'San Francisco Bike Map and Walking Guide'	BED, BACKPACK
+041	023	BAGS	03	On the Floor	023	Blue canvas and tan leather L.L. Bean Backpack	BEDSIDE TABLE, BED, PURSE
+041	024	PERSONAL ITEMS	02	On the Floor	024	Black blow-drier with blue button, container of lotion	BED, BACKPACK
+041	025	PAPERS	02	On the Floor	025	Magazine-like booklet containing coupons (?)	BED, BACKPACK
+041	026	BAGS	04	On the Floor	026	Off-white canvas bag	MAGAZINE, BACKPACK, BED
+041	027	PAPERS	03	On the Floor	027	Vertical stack behind bedside table containing: one hand-written note, one small book, one postcard (?), one paper packaging for "Leuchtturn1917"	BEDSIDE TABLE, ENTRY DOOR
+041	028	SHELVES		Furniture	001	Dark brown faux (?) wood bookshelf with 5 shelves, 2nd shelf from top is broken and leaning down to the right, 3rd shelf from top is heavily bowed in the middle	MIRROR, YOGA MAT, ROLLING DRAWERS
+041	029	BOOKS	02	Furniture	002	Four shelves of books (incl "The Oxford History of Islam", "Budapest: A Critical Guide", "Catch-22", "Plato's The Republic", "Leaves of Grass", "2007 SAT prep book", etc)	BOOKSHELF
+041	030	ART SUPPLIES	01	Furniture	003	Liquitex Basics box of paint	BOOKSHELF
+041	031	PERSONAL ITEMS	03	Furniture	004	Red comb, Intense Defense lotion with Vitamin D, lavendar essential oil	BOOKSHELF
+041	032	MISC	01	Furniture	005	Four Mexican sugar skulls, one red jewelry box, one large address white manilla envelope, one plane ticket to Mexico City, one piece of folded sheet music (slightly yellowed)	BOOKSHELF
+041	033	BASKETS	02	Furniture	006	Two dark brown wicker baskets: contain cords, boxes, and bags (toiletries?)	BOOKSHELF
+041	034	DRAWERS	01	Furniture	007	White set of drawers on black wheels with one large drawer (on bottom) and three small drawers (on top)	YOGA MAT, WARDROBE (01)
+041	035	CLOTHS		Furniture	008	Dark blue table drape (or scarf?) with yellow and red flowers	ROLLING DRAWERS
+041	036	BOOKS	03	Furniture	009	Stack of books and papers containing: colored index cards, "Go Down, Moses", "The Tao of Psychology", "Official Guide to the GRE", bright blue spiral-bound notebook, "GRE Math", "2017 Look Ahead" pamphlet, 1" thick stack of white papers	ROLLING DRAWERS
+041	037	CLOTHING	03	Furniture	010	Black shirt, olive green shirt, black pants, grey knitted scarf (?)	ROLLING DRAWERS
+041	038	PERSONAL ITEMS	04	Furniture	011	Plastic tub of coconut oil, plastic tub of Aquaphor skin lotion, small packet of kleenex, clear translucent plastic container	ROLLING DRAWERS
+041	039	MONEY	01	Furniture	012	Bank of America checkbook in bright blue cover	ROLLING DRAWERS
+041	040	DRAWERS	02	Furniture	013	Small set of white and clear plastic drawers (contents blocked by other objects)	ROLLING DRAWERS
+041	041	WARDROBE	01	Furniture	014	White full-length wardrobe with two doors for clothing and one door for shelving (shelving door is open), middle door has a slender full-length mirror	ROLLING DRAWERS, FIREPLACE
+041	042	CLOTHING	04	Furniture	015	Shelving unit of wardrobe is segmented by clothing type: socks (in dark brown wicker baskets), folded t-shirts, folded long-sleeve shirts (femenine), folded scarves; color profile white, black, blue	WARDROBE (01)
+041	043	MAGNETS		Furniture	016	Magnetic metal plates (affixed to inside of open wardrobe door); contain flat magnets and makeup	WARDROBE (01)
+041	044	BAGS	05	Furniture	017	Large brown canvas bag, large dark blue Zara bag	WARDROBE (01)
+041	045	BOXES	02	Furniture	018	Orange Nike shoebox	WARDROBE (01)
+041	046	WARDROBE	02	Furniture	019	White full-length wardrobe with two doors for clothing and one door for shelving (shelving door removed), middle door has a slender full-length mirror with writing on it in white marker (abstract drawings, unintelliglbe cursive-written list, plus two instances of the phrase '[name (redacted)] was here'	FIREPLACE, RUG, TARGETS
+041	047	ART SUPPLIES	02	Furniture	020	12 square white canvasses, two large drawing paper books, two large rolled papers (approx poster-size), plastic box, master combination lock, ziploc bags	WARDROBE (02)
+041	048	CLOTHING	05	Furniture	021	Dark brown wicker basket containing socks and boxers (?), mostly black or dark blue	WARDROBE (02)
+041	049	BOOKS	04	Furniture	022	2 spiral notebooks and 15 books, incl: "Thinking Physics", "Applied Complex Variables", "JavaScript Application Design"	WARDROBE (02)
+041	050	MONEY	02	Furniture	023	Large Ball jar filled approx 80% full with coins	WARDROBE (02)
+041	051	PERSONAL ITEMS	05	Furniture	024	Foot callous pumice stone brush, black comb, tweezers, polishing rag	WARDROBE (02)
+041	052	MISC	02	Furniture	025	Golden snail letter opener, approx 2" stack of business cards, portable phone charger, pencils, pens, two small notebooks	WARDROBE (02)
+041	053	BOXES	03	Furniture	026	Cardboard box taped lengthwise twice with grey duct tape	WARDROBE (02)
+041	054	CHAIRS		Furniture	027	Brown wooden chair with beige fabric bottom and back	TABLE, WINDOWS
+041	055	CLOTHING	06	Furniture	028	Long black sweater (draped over back)	CHAIR
+041	056	TABLES		Furniture	029	Wooden table with one drawer and metal legs	CHAIR, WINDOWS
+041	057	FLOWERS		Furniture	030	Clear glass vase with live magenta flowers; dropped petals are littered around the vase	TABLE
+041	058	PAPERS	04	Furniture	031	Two items of mail (United Mileage Plus, Kaiser Permanente), two book-bound notebooks (one blue, one pink), coloring sheet from Honduras, one spiral-bound notebook, three books, other small stack of papers (top paper reads: "A Modular Approach to Creativity and Inspiration in Search"), one booklet of Opera House 2017 Season Preview	TABLE
+041	059	OFFICE SUPPLIES		Furniture	032	10 pens (most of them colored), small clear plastic ruler, two USB sticks	TABLE
+041	060	CUPS	01	Furniture	033	White coffee mug with blue flowers, contains approx 0.25" of dark brown liquid	TABLE
+041	061	COASTERS		Furniture	034	Two fired clay drink coasters	TABLE
+041	062	SCENTS		Furniture	035	Tray containing pink BIC lighter and scented herbs	TABLE
+041	063	ART	01	Furniture	036	One large glass orb, two decorative hour glasses (one with black sand, one with white sand)	TABLE
+041	064	BEVERAGES	01	Furniture	037	Bottle of 100% Agave Mezcal	TABLE
+041	065	LIGHTING	01	Furniture	038	Small standing lamp with silver base, white shade, silver pull-string cord	TABLE
+041	066	DRAWERS	03	Furniture	039	Short white Poppin brand metal drawers with lockable top drawer	LAPTOP, CORDS, BED
+041	067	BEVERAGES	02	Furniture	040	Medium-sized clear glass teapot containing two bags of tea and approx 25% full with water (sitting on elevated kettle rest), one Ball jar filled halfway full with water	WHITE DRAWERS
+041	068	TRAYS		Furniture	041	White and blue porcelain tray (empty)	WHITE DRAWERS
+041	069	WRITING IMPLEMENTS	02	Furniture	042	Two pens	WHITE DRAWERS
+041	070	BOOKS	05	Furniture	043	Stack of 2 notebooks and 21 books, incl "501 Italian Verbs", "Nightwood", "The Diary of Anais NN", "Duino Elegies", "A Room of One's Own"	WHITE DRAWERS
+041	071	BEDS		Furniture	044	Matress resting directly on floor: white fitted sheet and white comforter (with three small brown droplet stains in upper right corner)	WHITE DRAWERS, BEDSIDE TABLE
+041	072	PILLOWS		Furniture	045	Two long pillows with white pillowcases, one large baby blue sitting pillow with a back and armrests	BED
+041	073	CLOTHING	07	Furniture	046	Pajama pants, robe, tank top, sports bra, blouses (color profile white, grey, light blue)	BED
+041	074	PHONES		Furniture	047	iPhone in wood and salmon-colored case	BED
+041	075	HUMANS		Furniture	048	Woman in blue jeans, red top, blue earrings	BED
+041	076	COMPUTERS	02	Furniture	049	Macbook Pro (in use), one sticker that reads 'iiif.io'	BED
+041	077	NIGHTSTANDS		Furniture	050	White bedside table with one drawer and one shelf	BED, ENTRY DOOR
+041	078	LIGHTING	02	Furniture	051	Small standing lamp with silver base, white shade, silver pull-string cord	BEDSIDE TABLE
+041	079	CUPS	02	Furniture	052	Two wide-mouth Ball jars (one 80% full of water), one white coffee mug with pink roses (approx 80% full with tea)	BEDSIDE TABLE
+041	080	PERSONAL ITEMS	06	Furniture	053	Black ponytail holder, Palmer's cocoa butter lotion, silver hair brush, baby wipes (visible inside bottom drawer)	BEDSIDE TABLE
+041	081	MEDICINES		Furniture	054	Tea tree oil, small bottle of non-drowsy Wal-itin, Hall's throat lozenges	BEDSIDE TABLE
+041	082	BOOKS	06	Furniture	055	Stack of 6 books, incl: "Cane", "No Country for Old Men"	BEDSIDE TABLE
+041	083	GLASSWARE	01	Furniture	056	Tall glass pitcher	BEDSIDE TABLE
+041	084	PAPERS	05	Furniture	057	Universal Waite Tarot deck, two additional scattered books, 4 notebooks, opened mail, papers stuffed inside of school folders	BEDSIDE TABLE
+041	085	DOORS		On the Walls	001	White painted wood door with brass lock and clear plastic faux-crystal handle	SHOEBOX, BEDSIDE TABLE
+041	086	TOWELS		On the Walls	002	Two red, one purple, one blue (hung on over-the-door hooks)	ENTRY DOOR
+041	087	HATS		On the Walls	003	Red shower cap	ENTRY DOOR
+041	088	HANGERS		On the Walls	004	White plastic clothes hanger (empty)	ENTRY DOOR
+041	089	ALARMS		On the Walls	005	Off-white plastic fire alarm	ENTRY DOOR, WALLS
+041	090	REMOTES		On the Walls	006	Off-white plastic remote control for air conditioner (?)	ENTRY DOOR, WALLS
+041	091	FIREPLACES		On the Walls	007	Brick fireplace (clearly not used) with white wooden top shelf	WARDROBE (01), WARDROBE (02)
+041	092	GLASSWARE	02	On the Walls	008	Large Strauss jug filled with crystals (resembling sugar or salt), Ball jar approx 50% full with water, empty Napa Valley Sauv Blanc bottle containing incense, empty rosewater bottle with Chinese good fortune talisman hung around neck, purple jar candle, medium blue bottle of Radha Rosehip Oil	FIREPLACE
+041	093	ART	02	On the Walls	009	Three square prints of Japanese paintings, one decorative San Francisco Chinatown postcard, one brightly-colored Mexican shadowbox, one black and white drawing of trees	FIREPLACE
+041	094	MISC	03	On the Walls	010	One spoon, two stick candles (tipped and dusty), two small wooden bobblehead animals, copper LED wire, stained Fresh-Nap moist towelette, hand-written email address on scrap of paper, small black plastic screw-top lid, two clay-fired candleholders in the shape of a blooming tulip, Japanese-style picture booth photos of a male-female couple	FIREPLACE
+041	095	BAGS	06	On the Walls	011	One large blue Chinese-style satchel, one canvas pull-string bag	FIREPLACE
+041	096	BOXES	04	On the Walls	012	Wooden box (propped vertically against wall), black lacquer jewelry box (containing necklaces, bracelets, and rings)	FIREPLACE
+041	097	TINS		On the Walls	013	Tall tin of New Mexico Pinon coffee (empty); reads "Great coffee is a matter of a Pinon!"	FIREPLACE
+041	098	CLOTHING	08	On the Walls	014	One red scarf with pink flowers, one black cloth hairband	FIREPLACE
+041	099	WINDOWS		On the Walls	015	Bay windows with white canvas blinds; two blinds down, one blind up (same for windows)	WALLS
+041	100	WALLS		On the Walls	016	Dark beige-ish or light brown in color	N/A

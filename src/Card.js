@@ -2,12 +2,14 @@ const React = require("react");
 
 function getCategoryLookup (category) {
   switch (category.toLowerCase()) {
-    case "on the floor":
+    case "[missing]":
       return "00";
-    case "furniture":
+    case "on the floor":
       return "01";
-    case "on the walls":
+    case "furniture":
       return "02";
+    case "on the walls":
+      return "03";
     default:
       throw new Error(`bad category: ${category}`);
   }

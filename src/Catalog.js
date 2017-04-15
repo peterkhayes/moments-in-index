@@ -18,6 +18,7 @@ function loadCSV (filepath) {
 }
 
 let data = fs.readdirSync(path.join(__dirname, "../data"))
+  .filter((filename) => filename.startsWith("Inventory"))
   .map((filename) => path.join(__dirname, "../data", filename))
   .map(loadCSV)
   .reduce((acc, data) => acc.concat(data), []);

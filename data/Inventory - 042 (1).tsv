@@ -1,0 +1,63 @@
+User ID #	Item #	Item Type	Item Type Modifier	Category	Category Item #	Description	Nearby
+042	000	LOSS		[missing]		Romantic relationship: not mutual, Subject is still in love with their partner	
+042	001	BOXES	01	On the Floor	001	Cardboard Amazon box (repurposed); contains one cardboard tube, several packets of blank trading cards, one blue box in plastic wrap that reads "World Championships 2016" in gold lettering	ENTRY DOOR, DRESSER
+042	002	CLOTHING	01	On the Floor	002	Nine pairs of shoes in rows perpendicular to front of dresser: grey slippers (with heels to dresser), grey tennis shoes and green tennis shoes (with toes to dresser), black flip-flops (underneath dresser), brown sandals (stacked one on top of the other, horizonal to dresser), black running shoes (stacked one on top of the other, heels to dresser), grey running shoes (toes to dresser), brown leather boots and purple tennis shoes (toes to dresser, in row 2)	DRESSER, LAUNDRY BAG, PAPER MACHE LAMP
+042	003	BAGS	01	On the Floor	003	Large blue and white satchel laundry bag (approx 100% full)	PURPLE TENNIS SHOES, PRINTER
+042	004	CLOTHING	02	On the Floor	004	Two black gloves and a dark blue flannel jacket	DRESSER, GREY RUNNING SHOES, WATER BOTTLE
+042	005	BOTTLES	01	On the Floor	005	Black reusable water bottle	GLOVES, RUNNING SHOES, DRESSER
+042	006	LIGHTING	01	On the Floor	006	Floor lamp with black base and long, tubal paper mache light cover	GLOVES, RUNNING SHOES
+042	007	CORDS	01	On the Floor	007	One black cord with push-button, runs 3" across floor to lamp	CLOSET DOOR, PRINTER, LAUNDRY BAG
+042	008	COMPUTERS	01	On the Floor	008	Black Brother printer, wifi-enabled	CLOSET DOOR, CORDS, KEYBOARD
+042	009	COMPUTERS	02	On the Floor	009	Black Logitech keyboard	PRINTER, CORDS, BOOK
+042	010	BOOKS	01	On the Floor	010	"Radiance (a novel)" by Catherynne M. Valente	KEYBOARD, CORDS, PORTABLE SPEAKER
+042	011	ELECTRONICS	01	On the Floor	011	Green portable speaker	CORDS, TINS, EXTENSION CORD
+042	012	CORDS	02	On the Floor	012	White Belkin extension cord (contains phone (?) charger and printer cable), other various cords wrapped into circles and not plugged in	PRINTER, KEYBOARD, TINS
+042	013	FOOD		On the Floor	013	Yellow bag of M&Ms (open and folded)	CORDS, CALCULATOR, BOOK
+042	014	TINS		On the Floor	014	Two dollar store (?) red seasonal holiday tins	CORDS, COMPUTER MONITOR, PORTABLE SPEAKER
+042	015	ELECTRONICS	02	On the Floor	015	Calculator (?), turned upside-down	CORDS, BOOK, PRINTER
+042	016	COMPUTERS	03	On the Floor	016	Large NEC MultiSync monitor (against wall)	TINS, TRASH BAG, TAPE MEASURE
+042	017	BAGS	02	On the Floor	017	One trash bag (wadded)	COMPUTER MONITOR, GAMING MOUSE, TAPE MEASURE
+042	018	BOXES	02	On the Floor	018	Logitec G700s gaming mouse (in box)	COMPUTER MONITOR, TAPE MEASURE
+042	019	TOOLS	01	On the Floor	019	Alvin 25' tape measure	GAMING MOUSE, RUBBING ALCOHOL
+042	020	MEDICINES		On the Floor	020	Bottle of rubbing alcohol (approx 40% full)	TRASH CAN, TAPE MEASURE, WINDOW
+042	021	TRASH		On the Floor	021	White translucent plastic trash bin (empty, including trash bag)	RUBBING ALCOHOL, WINDOW, PC TOWER
+042	022	COMPUTERS	04	On the Floor	022	Black PC computer tower with clear side panel so insides are visible	TRASH CAN, WINDOW, KLEENEX
+042	023	PERSONAL ITEMS	01	On the Floor	023	Grey and white patterned box of Kleenex tissues (on top of PC tower)	PC TOWER
+042	024	LIGHTING	02	On the Floor	024	Tall floor lamp with black post and translucent white glass lamp cover	PC TOWER, DESK, WINDOW
+042	025	MATS	01	On the Floor	025	Clear plastic desk mat for placement under rolling chairs	DESK, BED, ROLLING CHAIR
+042	026	CORDS	03	On the Floor	026	White extension cord containing 5 black cords and 1 white cord (for Macbook)	DESK, BED, PC TOWER
+042	027	BAGS	03	On the Floor	027	Black and grey Patagonia backpack	BED, BIKE
+042	028	BICYCLES		On the Floor	028	Grey Prelude bike with hand-operated brakes and a black and orange bike lock attached to middle of handlebar	BED, UMBRELLA, HELMET
+042	029	BAGS	04	On the Floor	029	Green bag (full): contains red jersey jacket with zipper pockets, greyish silver bicycle helmet, items underneath not visible	BIKE, BED
+042	030	UMBRELLAS		On the Floor	030	Dark purple umbrella with a 'C' shaped handle	BIKE, HELMET, RED JACKET
+042	031	DRESSERS		Furniture	001	Tall dark wood dresser with 6 drawers and silver knobs	ENTRY DOOR, PAPER MACHE LAMP, SHOES
+042	032	BOXES	03	Furniture	002	6 boxes of Netrunner cards, 2 shiny black boxes, 1 white cardboard box with black marker that reads 'ANR Decks', 1 white box of wireless headphones, white cardboard box with black marker that reads "Corp", large white cardboard box with lid	DRESSER
+042	033	PAPERS	01	Furniture	003	0.5" stack of Netrunner cards, 1" stack of Netrunner cards, 2" stack of glossy blank cards, stack of misc papers (one reads "Collective Health", another is a shipping notice)	DRESSER
+042	034	PERSONAL ITEMS	02	Furniture	004	White hairbrush with wooden handle, Chapstick, green foam earplugs	DRESSER
+042	035	CUPS		Furniture	005	Silver cup that says "Black Diamond" in black font	DRESSER
+042	036	MISC		Furniture	006	Rolled-up small black mat, black carrier tube, white plastic container containing game pieces (?), blue and pink oragami hexagonal object, handwritten note that appears to have once been folded into origami	DRESSER
+042	037	ELECTRONICS	03	Furniture	007	Blue round headphone case and blue headphones	DRESSER
+042	038	BOOKS	02	Furniture	008	"Neuromancer" by William Gibson	DRESSER
+042	039	CHAIRS		Furniture	009	Black leather rolling chair	DESK, PLASTIC MAT, BED
+042	040	HUMANS		Furniture	010	Man: short ash-blonde hair and glasses, wearing green t-shirt and blue jeans	CHAIR
+042	041	DESKS		Furniture	011	White adjustable standing desk (currently set low enough to be used while seated)	PLASTIC MAT, ROLLING CHAIR, BED
+042	042	COMPUTERS	05	Furniture	012	Two monitors (adjusted to different heights)	DESK
+042	043	ELECTRONICS	04	Furniture	013	Two medium-sized Audyssey speakers	DESK
+042	044	KEYBOARDS		Furniture	014	Black keyboard with red backlighting (so letters glow red)	DESK
+042	045	ELECTRONICS	05	Furniture	015	White over-the-ear headphones	DESK
+042	046	MATS	02	Furniture	016	Large black mousepad that reads "Games of Berkeley" in purple glowing type	DESK
+042	047	COMPUTERS	06	Furniture	017	Black wireless mouse	DESK
+042	048	LIGHTING	03	Furniture	018	Two bike lights (one currently charging)	DESK
+042	049	PAPERS	02	Furniture	019	One black notebook, one gift certificate for Sock Shop	DESK
+042	050	PERSONAL ITEMS	03	Furniture	020	White glasses case with beige polishing cloth	DESK
+042	051	ART		Furniture	021	Red car model	DESK
+042	052	BOTTLES	02	Furniture	022	Green reusable water bottle	DESK
+042	053	TOOLS	02	Furniture	023	Two allen wrenches (different sizes)	DESK
+042	054	BEDS		Furniture	024	Low-to-the-floor frame with wheels (sits high due to thick box frame and mattress): dark grey sheets, light grey flannel blanket, white/beige/blue comforter	DESK, PARLOR DOORS
+042	055	PILLOWS		Furniture	025	Two pillows with navy blue cases, one with white and light blue flower case, one with grey striped case, one beige courdaroy armrest pillow	BED
+042	056	DOORS	01	On the Walls	001	Entry door: white painted wooden door with clear plastic (faux-crystal?) knobs	BIKE, CARDBOARD BOX
+042	057	DOORS	02	On the Walls	002	Closet door (?): white painted wooden door with clear plastic (faux-crystal?) knobs	PAPER MACHE LAMP, PRINTER
+042	058	CLOTHING	03	On the Walls	003	Approx 5 or 6 coats hanging from a 2-peg over-the-door rack	CLOSET DOOR
+042	059	WINDOWS		On the Walls	004	Large white painted window with white blinds (partially open)	DESK, FLOOR LAMP, PC TOWER
+042	060	DOORS		On the Walls	005	Double parlor doors (closed, to complete wall)	BIKE, UMBRELLA, BICYCLE HELMET
+042	061	WALLS		On the Walls	006	White	N/A

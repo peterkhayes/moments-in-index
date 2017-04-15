@@ -1,15 +1,16 @@
 User ID #	Item #	Item Type	Item Type Modifier	Category	Category Item #	Description	Nearby
+024	000	LOSS		[missing]		Close friend: passed away	
 024	001	TRASH	01	On the Floor	001	Black piece of string, small white piece of cardboard, approx 1/3 of a price sticker (stuck to floor)	MIRROR, CLOSET DOOR
 024	002	METALS		On the Floor	002	Wheel and metal attachment for a sliding door	CLOSET DOOR
 024	003	CLOTHING	01	On the Floor	003	Blue jacket (?)	BLACK DRAWERS, WINDOW, BED
 024	004	BOXES	01	On the Floor	004	One cardboard box and one cloth box; contain clothing (mostly black), one dryer sheet, white mask, plastic bubble packaging, something with a long green plastic handle	BED, WINDOW
-024	005	PERSONAL ITEMS	01	On the Floor	005	One package 'White Grease Makeup', still in package	BED, CLOTH BOX
+024	005	PERSONAL ITEMS	01	On the Floor	005	One package "White Grease Makeup", still in package	BED, CLOTH BOX
 024	006	BAGS	01	On the Floor	006	Large white plastic grocery bag; contains colored feathers, wire mesh key holder, orange toboggan, cords, other misc	BED
-024	007	BAGS	02	On the Floor	007	Large black bag with green lettering ('Oakland: Local ______ and Original Oakland'), folded so no contents are visible; sitting atop pink and grey sweater	BED, PLASTIC BAG
+024	007	BAGS	02	On the Floor	007	Large black bag with green lettering ("Oakland: Local ______ and Original Oakland"), folded so no contents are visible; sitting atop pink and grey sweater	BED, PLASTIC BAG
 024	008	CLOTHING	02	On the Floor	008	One rugged brown boot	BEDSIDE TABLE, ADIDAS BAG
-024	009	BAGS	03	On the Floor	009	Black Adidas gym bag with pink lettering, empty	BROWN BOOT, BEDSIDE TABLE
+024	009	BAGS	03	On the Floor	009	Black Adidas gym bag with pink lettering (empty)	BROWN BOOT, BEDSIDE TABLE
 024	010	BOXES	02	On the Floor	010	Several unfolded cardboard boxes, stacked upright	BEDSIDE TABLE, BOOKSHELF
-024	011	BAGS	04	On the Floor	011	Light brown messenger bag with black strap and red zipper pull, very full	STACKED CARDBOARD, ALL-IN-ONE GROOMING KIT
+024	011	BAGS	04	On the Floor	011	Light brown messenger bag with black strap and red zipper pull (very full)	STACKED CARDBOARD, ALL-IN-ONE GROOMING KIT
 024	012	PERSONAL ITEMS	02	On the Floor	012	All-in-one grooming kit (machine?), still in packaging	MESSENGER BAG, BOOKSHELF
 024	013	GAMES		On the Floor	013	Game controler (?), still in packaging	ALL-IN-ONE GROOMING KIT, MESSENGER BAG
 024	014	TAPE		On the Floor	014	Two rolls of tape, one clear one black, stacked on top of each other	CD CASE, BOOKSHELF
@@ -21,67 +22,67 @@ User ID #	Item #	Item Type	Item Type Modifier	Category	Category Item #	Descripti
 024	020	BOARDS		On the Floor	020	Black magnetic (?) pinboard; contains 14 magnetic metal clips, 1 receipt, one page of single leg isometric instructions, one hand-written note, one typed note (in new courier), one foam chalk-holder	STOOL, PAPER SHREDDER, STANDING DESK
 024	021	CORDS	01	On the Floor	021	One white extension cord (nothing plugged into it)	STOOL, PINBOARD
 024	022	TRASH	02	On the Floor	022	Two trash bins, one silver metal with black lid (foot-pedal operated), one white plastic	STANDING DESK, PINBOARD
-024	023	BAGS	05	On the Floor	023	One brown paper Whole Foods bag; filled with empty boxes and plastic wrapping	TRASH CANS, PINBOARD, REVIVE KOMBUCHA
-024	024	BOTTLES	01	On the Floor	024	One empty bottle of Revive kombucha 'The O.G. Brew', tipped on side	TRASH BINS, CARDBOARD BOX
+024	023	BAGS	05	On the Floor	023	One brown paper Whole Foods bag, filled with empty boxes and plastic wrapping	TRASH CANS, PINBOARD, REVIVE KOMBUCHA
+024	024	BOTTLES	01	On the Floor	024	One empty bottle of Revive kombucha "The O.G. Brew", tipped on side	TRASH BINS, CARDBOARD BOX
 024	025	BOXES	05	On the Floor	025	One small cardboard box, contains crumpled Whole Foods bag, crumpled USPS priority envelope	TRASH BINS, REVIVE KOMBUCHA, WHOLE FOODS BAG
 024	026	DRAWERS		Furniture	001	Black drawers with 4 drawers (no knobs)	CLOSET DOOR, WINDOW
 024	027	SKULLS		Furniture	002	Six small skulls from different animals (displayed on pink cloth)	BLACK DRAWERS
-024	028	MISC	01	Furniture	003	One smooth twig, two lightbulbs filled with green moss, one ziploc bag filled with white seashells, one black and white striped bird feather, one small corked bottle (hand-written label reads 'Linda's Sea Hybrid')	BLACK DRAWERS
+024	028	MISC	01	Furniture	003	One smooth twig, two lightbulbs filled with green moss, one ziploc bag filled with white seashells, one black and white striped bird feather, one small corked bottle (hand-written label reads "Linda's Sea Hybrid")	BLACK DRAWERS
 024	029	SHELVES	01	Furniture	004	White painted wooden shelf (built in to wall)	CLOSET DOOR, WINDOW, BLACK DRAWERS
 024	030	MISC	02	Furniture	005	Hard black plastic case, wood and metal birdhouse, coffee cup made of cardboard, white animal skull (?), large hat box, two hats (one black one green)	BUILT-IN SHELF
 024	031	BED		Furniture	006	Full-size dark brown faux (?) wood bed with short headboard; fitted sheets are dark crimson	WINDOWS, BEDSIDE TABLE
 024	032	PILLOWS		Furniture	007	Two pillows, pillowcases are greyish brown with small light blue triangles	BED
 024	033	MUSIC	02	Furniture	008	Black ukulele case	BED
 024	034	CLOTHING	03	Furniture	009	Red patterened coat	BED
-024	035	BOOKS	01	Furniture	010	Sex at Dawn	BED
+024	035	BOOKS	01	Furniture	010	"Sex at Dawn"	BED
 024	036	PLANTS	01	Furniture	011	One large orange flower with thick light green stem	BED
 024	037	PAPERS	01	Furniture	012	Envelope mailed from Kaiser Permanente	BED
-024	038	ART SUPPLIES	01	Furniture	013	Bag of 100% polyester 'Fiber Fill', unopened	BED
+024	038	ART SUPPLIES	01	Furniture	013	Bag of 100% polyester "Fiber Fill", unopened	BED
 024	039	CLOTHING	04	Furniture	014	Large pile of clothing (occupies ~40% of bedspace), contains scarves, jackets, blankets, one red Jansport back pack, one black crow (?) mask, one black hat, two blue bags, one clipboard	BED
 024	040	TABLES		Furniture	015	Medium brown wooden bedside table with middle shelf	BED, STACKED CARDBOARD, FLOATING BOOK SHELF 02
-024	041	BOOKS	02	Furniture	016	9 books in two stacks: The Hero With a Thousand Faces, The Abortion, Cat's Cradle, Leaders Make the Future, The Sirens of Titan, Mary Oliver New and Selected Poems, The Gold Cell, The Psychedelic Experience, Revenge of the Lawn	BEDSIDE TABLE
-024	042	ELECTRONICS	02	Furniture	017	Pink vibrator, with attachment for clitoral stimulation	BEDSIDE TABLE
+024	041	BOOKS	02	Furniture	016	9 books in two stacks: "The Hero With a Thousand Faces", "The Abortion", "Cat's Cradle", "Leaders Make the Future", "The Sirens of Titan", "Mary Oliver New and Selected Poems", "The Gold Cell", "The Psychedelic Experience", "Revenge of the Lawn"	BEDSIDE TABLE
+024	042	ELECTRONICS	02	Furniture	017	Pink vibrator (with attachment for clitoral stimulation)	BEDSIDE TABLE
 024	043	MISC	03	Furniture	018	Purple egg-shaped item	BEDSIDE TABLE
 024	044	CORDS	02	Furniture	019	White iPhone charging cable	BEDSIDE TABLE
-024	045	GLASSWARE		Furniture	020	White coffee mug with dark brown tea stain inside; reads 'Play Like It _____'	BEDSIDE TABLE
-024	046	PAPERS	02	Furniture	021	Booklet full of papers on the blue scale; cover reads 'The Seven Economy Future'	BEDSIDE TABLE
+024	045	GLASSWARE		Furniture	020	White coffee mug with dark brown tea stain inside; reads " Play Like It _____"	BEDSIDE TABLE
+024	046	PAPERS	02	Furniture	021	Booklet full of papers in varying shades of blue; cover reads "The Seven Economy Future"	BEDSIDE TABLE
 024	047	MISC	04	Furniture	022	Small goblet containing shrapnel from a log	BEDSIDE TABLE
 024	048	BAGS	06	Furniture	023	One small silver bag containing even smaller white plastic baggies (with red dice pattern on them), one ziploc bag containing three round white pills	BEDSIDE TABLE
-024	049	WRITING IMPLEMENTS		Furniture	024	Flower-pattern tin can full with pens, pencils, paintbrushes, sharpies, and a pair of scissors with white handles	BEDSIDE TABLE
-024	050	SCENTS		Furniture	025	One Wild Carrot Herbals 'Mountain Man' scented hand lotion; one Ironwood Candle (made with natural soy wax) 'Tobacco', one black oil burning votive	BEDSIDE TABLE
+024	049	WRITING IMPLEMENTS		Furniture	024	Flower-patterned tin can full with pens, pencils, paintbrushes, sharpies, and a pair of scissors with white handles	BEDSIDE TABLE
+024	050	SCENTS		Furniture	025	One Wild Carrot Herbals "Mountain Man" scented hand lotion; one Ironwood Candle (made with natural soy wax) "Tobacco", one black oil burning votive	BEDSIDE TABLE
 024	051	BOWLS		Furniture	026	One small porcelain bowl filled with ashes, four match fragments, and one roach	BEDSIDE TABLE
-024	052	BOOKS	03	Furniture	027	6 books stacked upright: Odyssey Works, This Explains Everything, Subliminal, Think and Grow Rich: Original Version, Grow	BEDSIDE TABLE
-024	053	BOXES	06	Furniture	028	Carved wooden jewelry (?) box with two drawers; inside contains three tubes of chapstick, foam ear plugs, one condom, stickers	BEDSIDE TABLE
+024	052	BOOKS	03	Furniture	027	6 books stacked upright: "Odyssey Works", "This Explains Everything", "Subliminal", "Think and Grow Rich: Original Version", "Grow"	BEDSIDE TABLE
+024	053	BOXES	06	Furniture	028	Carved wooden jewelry (?) box with two drawers: inside contains three tubes of chapstick, foam ear plugs, one condom, stickers	BEDSIDE TABLE
 024	054	PICTURES		Furniture	029	Golden photo frame, standing upright (behind jewelry (?) box)	BEDSIDE TABLE
 024	055	SHELVES	02	Furniture	030	Light wooden bookshelf with four shelves; completely filled with books and binders	STACKED CARDBOARD, ALL-IN-ONE GROOMING KIT
 024	056	FURS		Furniture	031	Small animal head furs, from wolves (?)	BOOKSHELF
-024	057	SHELVES	03	Furniture	032	Black wire metal shelving with two shelves; top shelf is covered in several layers of cardboard (taped on with grey masking tape)	BOOKSHELF, STANDING DESK
+024	057	SHELVES	03	Furniture	032	Black wire metal shelving with two shelves: top shelf is covered in several layers of cardboard (taped on with grey masking tape)	BOOKSHELF, STANDING DESK
 024	058	ART SUPPLIES	02	Furniture	033	Drafting board, half a ream of printer paper, blank labels	WIRE SHELF
-024	059	BOXES	07	Furniture	034	Clear plastic storage box, filled with index cards (several packages); three white boxes that say 'Prynt' in red lettering (contain black object)	WIRE SHELF
+024	059	BOXES	07	Furniture	034	Clear plastic storage box filled with index cards (several packages), three white boxes that say "Prynt" in red lettering (contain black object)	WIRE SHELF
 024	060	ELECTRONICS	03	Furniture	035	Black Cannon printer	WIRE SHELF
 024	061	LAMPS	01	Furniture	036	White reflective glass lamp cover (?)	WIRE SHELF
 024	062	CORDS	03	Furniture	037	Black printer (?) cords	WIRE SHELF
 024	063	CHAIRS		Furniture	038	Black mechanically-adjustable stool	STANDING DESK, PINBOARD, BLACK MAT
 024	064	DESKS		Furniture	039	Black metal and dark brown wood adjustable standing desk (set to approx 5' tall)	BOOKSHELF, POSTERS, TRASH CANS
-024	065	BOTTLES	02	Furniture	040	Approx 1 gallon glass bottle of Revive kombucha 'Yerba Mate Brew', small Ball jar with lid, glass beaker with green moss, large Ball jar without lid, 1" wide test tube with inserted cork containing very small black book, 125ml beaker containing three dark feathers, small jar filled with 'Rose Cross'	STANDING DESK
-024	066	OFFICE SUPPLIES		Furniture	041	Office Depot yellow post-its (mostly used), scotch tape, white board eraser, sharpies, pens, glue gun sticks	STANDING DESK
-024	067	BOXES	08	Furniture	042	Small cardboard box (sent through First Class mail), filled with other boxes, tape, plastic inflatable bag (?); small metal tin (resembling altoids tin); small plastic box with blue handles containing stamps, white clear boxed packaging containing three white candles	STANDING DESK
+024	065	BOTTLES	02	Furniture	040	Approx 1 gallon glass bottle of Revive kombucha "Yerba Mate Brew", small Ball jar with lid, glass beaker with green moss, large Ball jar without lid, 1" wide test tube with inserted cork containing very small black book, 125ml beaker containing three dark feathers, small jar filled with "Rose Cross"	STANDING DESK
+024	066	OFFICE SUPPLIES		Furniture	041	Office Depot yellow post-its (mostly used), scotch tape, whiteboard eraser, sharpies, pens, glue gun sticks	STANDING DESK
+024	067	BOXES	08	Furniture	042	Small cardboard box (sent through First Class mail) filled with: other boxes, tape, plastic inflatable bag (?); small metal tin (resembling altoids tin); small plastic box with blue handles containing stamps, white clear boxed packaging containing three white candles	STANDING DESK
 024	068	PLATEWARE		Furniture	043	Large dark blue coffee mug with two dried tea bags; black bowl with incense, red cinch baggie, and sanitizing lotion; red bowl with individually folded $1 bills and other misc, one tiki mug (propping up stack of books)	STANDING DESK
 024	069	LAMPS	02	Furniture	044	Silver adjustable reading lamp	STANDING DESK
-024	070	PAPERS	03	Furniture	045	Hand-written postcard to 'Spence', Remax flyer, Chase envelope, Alaska Mileage plan envelope, business card (unreadable), misc upright stack of notebooks and papers	STANDING DESK
+024	070	PAPERS	03	Furniture	045	Hand-written postcard to "Spence", Remax flyer, Chase envelope, Alaska Mileage plan envelope, business card (unreadable), misc upright stack of notebooks and papers	STANDING DESK
 024	071	ART SUPPLIES	03	Furniture	046	Wooden small pull-drawer storage cabinet, plus storage pen for pencils and paint brushes (contains paint brushes, sharpies, #2 pencils, tweezers, pencil sharpener	STANDING DESK
-024	072	BOOKS	04	Furniture	047	10 books: The 7 Habits of Highly Effective People, ______, Introducing Semiotics, Trout Fishing in America, The Sorrow and the Fast of It, Finite and Infinite Games, The Man Suit, The Book of Interfering Bodies, Building Imaginary Worlds, The Best American Comics 2010	STANDING DESK
-024	073	FOODS		Furniture	048	Cherry almond snacks, Trader Joe's 'Peanut Butter Filled Pretzels' (approx 20% full, bag standing open), mentos peppermint	STANDING DESK
+024	072	BOOKS	04	Furniture	047	10 books: "The 7 Habits of Highly Effective People", ______, "Introducing Semiotics", "Trout Fishing in America", "The Sorrow and the Fast of It", "Finite and Infinite Games", "The Man Suit", "The Book of Interfering Bodies", "Building Imaginary Worlds", "The Best American Comics 2010"	STANDING DESK
+024	073	FOODS		Furniture	048	Cherry almond snacks, Trader Joe's Peanut Butter Filled Pretzels (approx 20% full, bag standing open), Mentos Peppermint	STANDING DESK
 024	074	MISC	05	Furniture	049	Black decorative rocks in black mesh baggie, sleeping mask, red earmuffs, black rope, broken (?) iPhone cases, yellow and red Chat Noir tin tray, white Apple headphones, small red mailbox containing small hand-written letters, metal object from an old typewriter (?) with date set to Sept 13, light grey metal stand for laptop computer	STANDING DESK
 024	075	PERSONAL ITEMS	03	Furniture	050	Fat and the Moon Lavendar Cocoa dry shampoo, Elta MD skincare UV clear facial sunscreen	STANDING DESK
 024	076	MONEY		Furniture	051	Visa debit card, box of Wells Fargo checks	STANDING DESK
 024	077	DOORS	01	On the Walls	001	Dark-medium brown wooden door with gold knob and simple turn lock	CLOSET, STANDING DESK
-024	078	RACKS		On the Walls	002	Silver over-the-door rack; contains forest green towel, make-up bag, black dress	ENTRY DOOR
+024	078	RACKS		On the Walls	002	Silver over-the-door rack: contains forest green towel, makeup bag, black dress	ENTRY DOOR
 024	079	BAGS	07	On the Walls	003	Two plastic bags, one black one white, looped over doorknob	ENTRY DOOR
 024	080	DOORS	02	On the Walls	004	White painted wooden closet doors	ENTRY DOOR
 024	081	MIRRORS		On the Walls	005	Tall hung mirror with black trim	CLOSET DOOR
 024	082	SHELVES	04	On the Walls	006	Shelf 1: grey sheets, dark blue towel, large plastic bag (all folded in a stack); pink foam roller, bag filled with jewelry, small brown paper bag, plastic bin filled with items	CLOSET
-024	083	SHELVES	05	On the Walls	007	Shelf 2: gold band, cutting board, clear and black plastic dumbell, ziploc flexible totes, black camera, downy wrinkle eraser, glasses case, jar filled with spare change and test tubes, large red tin, plastic bin containing Motrin and make-up	CLOSET
+024	083	SHELVES	05	On the Walls	007	Shelf 2: gold band, cutting board, clear and black plastic dumbell, ziploc flexible totes, black camera, downy wrinkle eraser, glasses case, jar filled with spare change and test tubes, large red tin, plastic bin containing Motrin and makeup	CLOSET
 024	084	SHELVES	06	On the Walls	008	Shelf 3: wicker basket, cloth bag (or purse?), Intuos Creative Pen & Touch Tablet, Hefty storage bin filled with feathers, rope, padlock, card game	CLOSET
 024	085	CLOTHING	05	On the Walls	009	Clothing hung on (mostly) wooden hangers: long-sleeved button-down shirts (women's), cloth hanging shelving containing scarves, belts, shoes	CLOSET
 024	086	ART	01	On the Walls	010	Technical drawing of a windmill on white paper	CLOSET
@@ -95,10 +96,10 @@ User ID #	Item #	Item Type	Item Type Modifier	Category	Category Item #	Descripti
 024	094	ELECTRONICS	04	On the Walls	018	Two white USB to outlet converters	WINDOWS
 024	095	PHOTOS		On the Walls	019	One black and white photograph of a stucco building, in wood and glass shadowbox with colored pebble decoration	WINDOWS
 024	096	JARS		On the Walls	020	One small jar of green moss	WINDOWS
-024	097	ART	02	On the Walls	021	Unfolded cardboard, panted black with star speckles; in front hangs egyptian pyramid with seeing eye (also cardboard) framed by dark red stage curtains and sitting atop clouds	BED
+024	097	ART	02	On the Walls	021	Unfolded cardboard, panted black with star speckles; in front hangs Egyptian pyramid with seeing eye (also cardboard) framed by dark red stage curtains and sitting atop clouds	BED
 024	098	ART	03	On the Walls	022	Black crow made from metal (?), hanging on string from ceiling	BED
 024	099	SHELVES	08	On the Walls	023	Two floating book shelves; one with six books and plastic bird statue, one with four books and upright lightbulb	BEDSIDE TABLE
-024	100	POSTERS	01	On the Walls	024	Black and white poster that reads 'Weapons of Mass Destruction', black and yellow juke box poster that says 'Mission', red and orange poster of a man being eaten by snakes in the dessert, black white and orange poster of a man in brush, black and white drawing of the book and another of wind, check-like item for 'Give me Cred!'	FLOATING BOOK SHELVES
-024	101	POSTERS	02	On the Walls	025	Picture of mountain range, blue and orange poster that reads 'The day that Lassie went to the moon', black white and red that reads 'The Grand Canyon', plus a few others	STANDING DESK, ENTRY DOOR
+024	100	POSTERS	01	On the Walls	024	Black and white poster that reads "Weapons of Mass Destruction", black and yellow juke box poster that says "Mission", red and orange poster of a man being eaten by snakes in the dessert, black white and orange poster of a man in brush, black and white drawing of the book and another of wind, check-like item for "Give me Cred!"	FLOATING BOOK SHELVES
+024	101	POSTERS	02	On the Walls	025	Picture of mountain range, blue and orange poster that reads "The day that Lassie went to the moon", black white and red that reads "The Grand Canyon", plus a few others	STANDING DESK, ENTRY DOOR
 024	102	ART	04	On the Walls	026	Woodcut map, painting of a woman with a t-shirt falling off her shoulder, small painting of a mollusk, drawing of a swimming fish	STANDING DESK, ENTRY DOOR
-024	103	KEYS		On the Walls	027	Wooden key rack with two pegs, contains three keyrings with multiple keys per ring plus satchel that contains 'Clipper' subway card	ENTRY DOOR
+024	103	KEYS		On the Walls	027	Wooden key rack with two pegs, contains three keyrings with multiple keys per ring plus satchel that contains Clipper subway card	ENTRY DOOR

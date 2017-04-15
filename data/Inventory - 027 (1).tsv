@@ -1,5 +1,6 @@
 User ID #	Item #	Item Type	Item Type Modifier	Category	Category Item #	Description	Nearby
-027	001	BEVERAGES	01	On the Floor	001	40 pack of 16.8 fl oz water bottles, torn open in the top left corner, though no bottles are conspicuously removed; Kirkland brand	SINGLE WATER BOTTLE, SPACE HEATER
+027	000	LOSS		[missing]		Job: voluntarily, but no back-up plan	
+027	001	BEVERAGES	01	On the Floor	001	40 pack of Kirkland Brand 16.8 fl oz water bottles, torn open in the top left corner (though no bottles are conspicuously removed)	SINGLE WATER BOTTLE, SPACE HEATER
 027	002	BEVERAGES	02	On the Floor	002	Single 16.9 fl oz Kirkland brand water bottle, unopened	SPACE HEATER, WATER PACK
 027	003	ELECTRONICS	01	On the Floor	003	White metal space heater (the old-fashioned kind), rolled 1.5' away from wall	SINGLE WATER BOTTLE
 027	004	CLOTHING	01	On the Floor	004	Two long black socks, scrunched up as though removed from foot and dropped onto floor	BED
@@ -19,15 +20,15 @@ User ID #	Item #	Item Type	Item Type Modifier	Category	Category Item #	Descripti
 027	018	ART		Furniture	009	Wooden statue of a person's head, about 2' tall	BEDSIDE TABLE (TOP)
 027	019	LIGHTING		Furniture	010	Grey satin square, sitting on silver square metal base; minimalist design; turned off	BEDSIDE TABLE (TOP)
 027	020	TOYS		Furniture	011	Pink and purple dragon-esque stuffed toy; yellow tag attached to its arm that reads "Peni-Pals"; the head has a penis-like object instead of a horn	BEDSIDE TABLE (TOP)
-027	021	BED		Furniture	012	Medium-height black bedframe without a headboard; minimalist; unmade; thick mattress (1.25' approx); bed legs sit on white plastic floor protectors	BEDSIDE TABLE
+027	021	BED		Furniture	012	Medium-height black bedframe without a headboard: minimalist look, unmade, thick mattress (1.25' approx), bed legs sit on white plastic floor protectors	BEDSIDE TABLE
 027	022	PILLOWS	03	Furniture	013	Two pillows, one in silver-grey pillow case (with small bleach stain), one in beige pillow case; pillows within appear to be contoured foam	BED
 027	023	BLANKETS	01	Furniture	014	Silver-grey fitted sheet and loose sheet, matches one of the pillow cases	BED
 027	024	BLANKETS	02	Furniture	015	Dark blue-grey comforter with occasional understated flower	BED
 027	025	ELECTRONICS	03	Furniture	016	Glass scale (max weight 330lbs)	UNDER BED
 027	026	BEVERAGES	03	Furniture	017	11 boxes of LaCroix sparkling water: apricot, blackberry cucumber, pineapple strawberry, coconut; one apricot-flavored box appears to be open from the end (not where the perforated slot is)	UNDER BED
-027	027	BOXES	02	Furniture	018	Clear plastic storage bin with white lid; visible inside: one voided check, one round black tin labeled 'lover's kit', other boxes that appear to be boxes of either stationery or checks 	UNDER BED
+027	027	BOXES	02	Furniture	018	Clear plastic storage bin with white lid; visible inside: one voided check, one round black tin labeled 'lover's kit', other boxes that appear to be boxes of either stationery or checks	UNDER BED
 027	028	BAGS		Furniture	019	Large empty thick plastic white bag	UNDER BED
-027	029	BOXES	03	Furniture	020	Clear plastic storage bin with white lid; visible inside: one black container labeled 'poison', one gluten free raspberry organic _____, a box that says 'imported', clear gelatin capsules, a box containing a microscale (?), other unreadable bottles	UNDER BED
+027	029	BOXES	03	Furniture	020	Clear plastic storage bin with white lid; visible inside: one black container labeled "poison", one gluten free raspberry organic _____, a box that says "imported", clear gelatin capsules, a box containing a microscale (?), other unreadable bottles	UNDER BED
 027	030	BOXES	04	Furniture	021	Two cardboard boxes; appear to be taped shut	UNDER BED
 027	031	CHAIRS		Furniture	022	Tall dark brown wooden stool, old-fashioned flared-out feet	PORTABLE CLOSET
 027	032	CLOTHING	02	Furniture	023	A pile of clothes still on hangers, mostly dark or black: two shirts, one jacket, a pair of pants	STOOL
@@ -36,7 +37,7 @@ User ID #	Item #	Item Type	Item Type Modifier	Category	Category Item #	Descripti
 027	035	WINDOWS	02	On the Walls	002	Two windows flanking one another in the corner; one has a grey curtain, one has no curtain and retracted blinds	HEPA FILTER
 027	036	DOORS	02	On the Walls	003	One closet with sliding doors, slightly ajar; outside of doors are mirrors	BED, PORTABLE CLOSET
 027	037	CLOTHING	03	On the Walls	004	Pile of clothing (mostly plaid), one green t-shirt, one rolled-up black leather belt (secured with rubber band), one scarf (?)	CLOSET (FLOOR)
-027	038	BOXES	05	On the Walls	005	Box for 'DecoBros closet hanging rod, chrome'	CLOSET (FLOOR)
+027	038	BOXES	05	On the Walls	005	Box for "DecoBros closet hanging rod, chrome"	CLOSET (FLOOR)
 027	039	DRAWERS		On the Walls	006	Clear plastic drawer set with three drawers, middle drawer open, all drawers appear to contain socks (mostly black or dark); open middle drawer has one pair of white split-toe Japanese-style socks visible on top	CLOSET
 027	040	CLOTHING	04	On the Walls	007	On hangars tightly packed inside of closet (mostly black or dark); jackets, long-sleeve button-down shirts, a few white short-sleeve button-down shirts, one yellow t-shirt; mixed male/female clothing (?)	CLOSET
 027	041	WALLS		On the Walls	008	White	N/A

@@ -1,72 +1,73 @@
 User ID #	Item #	Item Type	Item Type Modifier	Category	Category Item #	Description	Nearby
-030	001	BAGS	01	On the Floor	001	Ziploc bag filled with bicycle parts--reflector, black plastic rings	ENTRY DOOR, JEWELRY BOX
-030	002	BOXES	01	On the Floor	002	Wooden Jewelry box with four drawers, bottom left drawer handle is broken and hanging downward by its right side only	BIC PEN, USB
+030	000	LOSS		[missing]		10 years of material on hard drive (crashed); Uncle (passed away)	
+030	001	BAGS	01	On the Floor	001	Ziploc bag filled with bicycle parts, incl: reflector, black plastic rings	ENTRY DOOR, JEWELRY BOX
+030	002	BOXES	01	On the Floor	002	Wooden jewelry box with four drawers; bottom left drawer handle is broken and hanging downward by its right side only	BIC PEN, USB
 030	003	ELECTRONICS	01	On the Floor	003	Black USB cord, folded and secured with black twist tie	JEWELRY BOX
 030	004	WRITING IMPLEMENTS	01	On the Floor	004	Blue BIC pen	JEWELRY BOX, CHARGER
 030	005	ELECTRONICS	02	On the Floor	005	Black Samsung phone charger, unplugged (below wall outlet)	JEWELRY BOX, BIC PEN
-030	006	CUPS		On the Floor	006	Black scoop or measuring cup; approx. 1/8 cup	JEWELRY BOX, MILK CRATE
-030	007	GLASSES	01	On the Floor	007	Black glasses case; engraved on top reads: Flexon	MILK CRATE, HEATER
+030	006	CUPS		On the Floor	006	Black scoop or measuring cup (approx. 1/8 cup)	JEWELRY BOX, MILK CRATE
+030	007	GLASSES	01	On the Floor	007	Black glasses case, engraved on top; reads: Flexon	MILK CRATE, HEATER
 030	008	ELECTRONICS	03	On the Floor	008	Holmes brand black heater with grey grate, turned off and stowed in corner with cord wrapped around base	JEWELRY BOX, STUD FINDER
 030	009	TOOLS	01	On the Floor	009	Yellow Zircon studfinder	VR HEADSET, HEATER
 030	010	TOYS	01	On the Floor	010	Google Cardboard VR headset, still in box	HEATER, STUD FINDER
-030	011	BOXES	02	On the Floor	011	Green milk crate, inside contains: one large black hardcover book with impressed insignia on cover, a silver water bottle that reads 'Fights like a girl', a folded newspaper that reads 'Displaced is not a solution, vote no on proposition Q & R', grey hoodie, black handkerchief	STUD FINDER, HANGER
+030	011	BOXES	02	On the Floor	011	Green milk crate, inside contains: one large black hardcover book with impressed insignia on cover, a silver water bottle that reads "Fights like a girl", a folded newspaper that reads "Displaced is not a solution, vote no on proposition Q & R", grey hoodie, black handkerchief	STUD FINDER, HANGER
 030	012	CLOTHING	01	On the Floor	012	Single black plastic clothes hanger	MILK CRATE, BELT
 030	013	BAGS	02	On the Floor	013	Large plastic bag, open and empty	STOOL, MILK CRATE
 030	014	ART SUPPLIES	01	On the Floor	014	Pink paper star	STOOL, VINYL SCRAP
 030	015	ART SUPPLIES	02	On the Floor	015	Rolled silver/grey vinyl	PINK STAR, GOOGLY EYE, END TABLE
 030	016	ART SUPPLIES	03	On the Floor	016	Single googly eye	PINK STAR, END TABLE, VINYL SCRAP
-030	017	MEMORIBILIA		On the Floor	017	Framed and matted text (white mat, black frame) that reads: Living room is a collaboration between [redacted] [redacted] [redacted] [redacted] [redacted] [redacted] [redacted] [redacted] [redacted] and the Uncanny Valley Night Market (first [name] and 'uncanny valley night market' written on tape that was taped on top of the frame, as though to add them after the original was printed	END TABLE, VINYL SCRAPS
-030	018	BAGS	03	On the Floor	018	Empty white plastic store bag; visible is blue seal that reads: State Board of Equalization State of California	END TABLE, PINK STAR
-030	019	BOXES	03	On the Floor	019	Two back milk crates stacked on top of each other; bottom contains brown extension cords, top contains books and misc items: 'Out on the Wire', a Japanese deck of cards, 'Paying for it' by Chester Brown, several other texts in Japanese (manga?)	END TABLE, CLOSED DOOR
+030	017	MEMORIBILIA		On the Floor	017	Framed and matted text (white mat, black frame) that reads: "Living room is a collaboration between [redacted] [redacted] [redacted] [redacted] [redacted] [redacted] [redacted] [redacted] [redacted] and the Uncanny Valley Night Market (first [name] and 'uncanny valley night market" written on tape that was taped on top of the frame, as though to add them after the original was printed	END TABLE, VINYL SCRAPS
+030	018	BAGS	03	On the Floor	018	Empty white plastic store bag; visible is blue seal that reads "State Board of Equalization State of California"	END TABLE, PINK STAR
+030	019	BOXES	03	On the Floor	019	Two back milk crates stacked on top of each other; bottom contains brown extension cords, top contains books and misc items: "Out on the Wire", a Japanese deck of cards, "Paying for it" by Chester Brown, several other texts in Japanese (manga?)	END TABLE, CLOSED DOOR
 030	020	WINDOWS	01	On the Floor	020	Four silver and two white extendable curtains rods, same design	CLOSED DOOR, POSTER
 030	021	PAPERS	01	On the Floor	021	Folded piece of paper	FOAM STAMP
-030	022	ART SUPPLIES	04	On the Floor	022	Foam stamp in teh shape of a teddy bear, stained pinkish red from use	CINNAMON TEA, PENCIL JAR
-030	023	WRITING IMPLEMENTS	02	On the Floor	023	Glass jar containing pencils, pens, a pair of orange-handled scissors, and a green shiny clothespin; stickers on outside read: 'Stealth' and 'Moon Base Operation Crew, Team 007'	FOAM STAMP, CINNAMON TEA
+030	022	ART SUPPLIES	04	On the Floor	022	Foam stamp in the shape of a teddy bear, stained pinkish-red from use	CINNAMON TEA, PENCIL JAR
+030	023	WRITING IMPLEMENTS	02	On the Floor	023	Glass jar containing pencils, pens, a pair of orange-handled scissors, and a green shiny clothespin; stickers on outside read: "Stealth" and "Moon Base Operation Crew, Team 007"	FOAM STAMP, CINNAMON TEA
 030	024	BEVERAGES		On the Floor	024	Tin of Trader Joe's Cinnamon Tempest tea	PENCIL JAR, FOAM STAMP, FOLDED PAPER
 030	025	ELECTRONICS	04	On the Floor	025	Black Dell keyboard, propped against wall	LG CHARGER, CINNAMON TEA
 030	026	CLOTHING	02	On the Floor	026	Black leather belt with silver buckle	HANGER
 030	027	BOXES	04	On the Floor	027	Folded USPS priority mailer	FILING CABINET, TRASH CAN
 030	028	TOOLS	02	On the Floor	028	Lime green toolbox	TRASH CAN, SCATTERED PAPERS
 030	029	BOXES	05	On the Floor	029	Folded up Dell cardboard box	PAPER BAG, SCATTERED PAPERS, TOOLBOX
-030	030	BAGS	04	On the Floor	030	Grocery store paper bag, outside reads (in green): 'It's easy to recycle more paper! It's in the bag!'; inside is stuffed full of paper, mostly newspapers	LAMP, SCATTERED PAPERS
+030	030	BAGS	04	On the Floor	030	Grocery store paper bag, outside reads (in green): "It's easy to recycle more paper! It's in the bag!"; inside is stuffed full of paper, mostly newspapers	LAMP, SCATTERED PAPERS
 030	031	PAPERS	02	On the Floor	031	Standard printer paper cut into fourths; contains colored icons with black text underneath: Love, Honesty, Connecting with Nature, Openmindedness, Responsibility, Caring for our Planet, Friendship, Helping others, Protection, Societal Structure, Acceptance ...	UNICYCLING CERTIFICATE, PAPER BAG
 030	032	PAPERS	03	On the Floor	032	Cirtificate of Participation for the 15th Unicycling World Championships and Convention 2010, Wellington, New Zealand	MANILLA ENVELOPES, SCATTERED PAPERS
 030	033	ENVELOPES		On the Floor	033	Three manilla envelopes inside a red tin, one has spilled over the side and fallen out; filled with folded papers	LADIES HAT, SUMMER CAMP PAMPHLET
 030	034	CLOTHING	03	On the Floor	034	Black laides hat with a black chiffon bow, resting on top of a coverless book	SUMMMER CAMP PAMPHLET, MANILLA ENVELOPES
 030	035	BOOKS	01	On the Floor	035	Book with missing cover	LADIES HAT, SUMMER CAMP PAMPHLET
-030	036	PAPERS	04	On the Floor	036	A few paper materials: one blue summer camp pamphlet, a green chapbook called 'Regional Field Guide to Numinous Phenomena', and a white rules sheet	MANILLA ENVELOPES, LADIES HAT
-030	037	BOOKS	02	On the Floor	037	Row of books: 100 Masterpieces from the Vitra Design Museum Collection, The Rest is Noise (Alex Ross), ________, Dress Your Family in Courderoy and Denim, Holy Bible, Cartooning (Ivan Brunetti), Odyssey Works, The Typesetter's Apprentice, The Telephone Book (H. M. Boettinger), The Latitude	RED TIN, MILK CRATE BOOKSHELF
+030	036	PAPERS	04	On the Floor	036	A few paper materials: one blue summer camp pamphlet, a green chapbook called "Regional Field Guide to Numinous Phenomena", and a white rules sheet	MANILLA ENVELOPES, LADIES HAT
+030	037	BOOKS	02	On the Floor	037	Row of books: "100 Masterpieces from the Vitra Design Museum Collection", "The Rest is Noise" (Alex Ross), ________, "Dress Your Family in Courderoy and Denim", "Holy Bible", "Cartooning" (Ivan Brunetti), "Odyssey Works", "The Typesetter's Apprentice", "The Telephone Book" (H. M. Boettinger), "The Latitude"	RED TIN, MILK CRATE BOOKSHELF
 030	038	BOXES	06	On the Floor	038	Round red lidless tin; contains misc papers and small containers	BOOKS, MILK CRATE BOOKSHELF
 030	039	GAMES		On the Floor	039	SeaFall: A Legacy Game (boxed boardgame); turned on side such that the title would be upright if read with head tilted 90 degrees	MILK CRATE, BEAN BAG
-030	040	BOXES	07	On the Floor	040	Black milk crate; contains a black laptop, manilla folders, papers, a book (The Unseen World), shoe inserts (?), bungee cord (?), a red notebook and a black binder	BEAN BAG, BOARD GAME
-030	041	CLOTHING	04	On the Floor	041	Blue and black item in the shape of a large waistband or wrestlers belt; front reads 'Body Glove'	BEAN BAG, RUBBER TUBING
+030	040	BOXES	07	On the Floor	040	Black milk crate: contains a black laptop, manilla folders, papers, a book ("The Unseen World"), shoe inserts (?), bungee cord (?), a red notebook and a black binder	BEAN BAG, BOARD GAME
+030	041	CLOTHING	04	On the Floor	041	Blue and black item in the shape of a large waistband or wrestlers belt; front reads "Body Glove"	BEAN BAG, RUBBER TUBING
 030	042	TOOLS	03	On the Floor	042	Folded rubber tubing	ENTRY DOOR
 030	043	STOOLS		Furniture	001	White wooden step-stool with two steps; approx 3' tall	END TABLE, CLOSET, PLASTIC BAG
 030	044	TABLES		Furniture	002	Square black wooden end table; approx 2' tall	MILK CRATES, STEP STOOL, GROCERY BAG
-030	045	PAPERS	05	Furniture	003	A small book called 'A Pictorial Book of Marsupial Animals', scattered papers and envelopes, postcards, a paperback book, a United States Passport with worn binding and frayed edges, an Oregon drivers license, stack of papers that read 'Exam/License Application Checklist' and appear to be formally issued, opened USPS priority mail envelope, stack of index cards (top reads in black pen: {scene, image, theme, dialogue, etc}, subcategory, title, embelishment	END TABLE
+030	045	PAPERS	05	Furniture	003	A small book called "A Pictorial Book of Marsupial Animals", scattered papers and envelopes, postcards, a paperback book, a United States Passport with worn binding and frayed edges, an Oregon drivers license, stack of papers that read "Exam/License Application Checklist" and appear to be formally issued, opened USPS priority mail envelope, stack of index cards (top reads in black pen: {scene, image, theme, dialogue, etc}, subcategory, title, embelishment)	END TABLE
 030	046	ART SUPPLIES	05	Furniture	004	Large metal hand-operated stamper, wooden stamp, plastic jar filled with magnets (?), smiley stickers	END TABLE
 030	047	GLASSES	02	Furniture	005	Pair of large safety goggles, clearish green	END TABLE
 030	048	MOUTHWEAR		Furniture	006	Black and white mouthguard	END TABLE
 030	049	BEDS		Furniture	007	See: On the Walls 016	
 030	050	CABINETS		Furniture	008	Silver filing cabinet with top glass shelf, on four black rotating wheels; on bottom drawer are 7 white letter magnets: d a o N a (upside-down) U C (upside-down)	TRASH CAN, KEYBOARD
 030	051	ART SUPPLIES	06	Furniture	009	Roll of green and pink star stickers, key rings, ink, number stickers	FILING CABINET
-030	052	PAPERS	06	Furniture	010	Stack of index cards (top reads: 'Opportunities', stack of chapbooks, handwritten website mock-up	FILING CABINET
+030	052	PAPERS	06	Furniture	010	Stack of index cards (top reads: "Opportunities", stack of chapbooks, handwritten website mock-up	FILING CABINET
 030	053	TOYS	02	Furniture	011	Small stuffed monkey, 3 packs of 5 dice with symbols instead of numbers, red metal kazoo, small black pouch filled with gold coins	FILING CABINET
 030	054	ELECTRONICS	05	Furniture	012	Black Dell mouse, pack of AA batteries, Sony casette tape recorder (with tape inside), RadioShack tape recorder (green pricing sticker on top reads 4/03/16 $2.00), White headphones, Sanyo battery charger (with slot for 4 batteries)	FILING CABINET
 030	055	PERSONAL CARE		Furniture	013	White chapstick without label, round blue container of blistex, tube of Carmex	FILING CABINET
 030	056	MISC		Furniture	014	smooth dark grey rock	FILING CABINET
 030	057	TRASH CANS		Furniture	015	White plastic trash can with silver push-button opener; inside contains papers, plastic bags, and partially burned tea candles	FILING CABINET, TOOLBOX
 030	058	LIGHTING		Furniture	016	Thin black floor lamp with round silver base	MANILLA ENVELOPES, SCATTERED PAPERS
-030	059	BOOKSHELVES		Furniture	017	Two black milk crates stacked on top of each other and facing outward, forming a bookshelf; some books hand bound, others read: The Wrenchies, Relish my Life in the Kitchen, Grow Planet, etc	MILK CRATE BOOKSHELF
+030	059	BOOKSHELVES		Furniture	017	Two black milk crates stacked on top of each other and facing outward, forming a bookshelf; some books seem hand bound, others read: "The Wrenchies", "Relish my Life in the Kitchen", "Grow Planet", etc	MILK CRATE BOOKSHELF
 030	060	PLANTS		Furniture	018	Green leafy plant in silver bucket	BOOKSHELF
 030	061	BOXES	08	Furniture	019	Wooden box	BOOKSHELF
 030	062	ART	01	Furniture	020	Drawing of what looks like the bad guy in Terminator (silver robot)	BOOKSHELF
 030	063	CHAIRS		Furniture	021	Large dark green beanbag chair	BOARD GAME, MILK CRATE
 030	064	CLOTHING	05	Furniture	022	Green t-shirt, navy blue tie and sweatpants, grey sweater, orange and red handkerchief	BEAN BAG
 030	065	WEAPONS		On the Walls	001	Large wooden bow with arrows and quiver; over the quiver is draped a dark green hat, over the bow is draped a white face mask with red eyebrows	ENTRY DOOR, POSTER
-030	066	DOORS	03	On the Walls	002	Entry door, painted white with silver knobs; on the bag is a coat hook with a worn leather jacket and a few light-colored t-shirts	BOW AND ARROW, POSTER
-030	067	POSTERS	01	On the Walls	003	Colorful poster of walking feet, reads: 'More people walk home from 24th St Mission than any other BART station. Way to go, Mission riders!'	BOW AND ARROW, CORNER SHELVES
-030	068	SHELVES	01	On the Walls	004	Three-tiered black corner shelves, contain: large clothespin sculpture with golden shoe on top, candles, leafy houseplant in traditional clay pot, 'A Book of Surrealist Games', tins, books, a zippo lighter, a small fake skull, a cell phone, and a fake tea candle	CORNER SHELVES
+030	066	DOORS	03	On the Walls	002	Entry door: painted white with silver knobs; on the back is a coat hook with a worn leather jacket and a few light-colored t-shirts	BOW AND ARROW, POSTER
+030	067	POSTERS	01	On the Walls	003	Colorful poster of walking feet, reads: "More people walk home from 24th St Mission than any other BART station. Way to go, Mission riders!"	BOW AND ARROW, CORNER SHELVES
+030	068	SHELVES	01	On the Walls	004	Three-tiered black corner shelves, contain: large clothespin sculpture with golden shoe on top, candles, leafy houseplant in traditional clay pot, "A Book of Surrealist Games", tins, books, a zippo lighter, a small fake skull, a cell phone, and a fake tea candle	CORNER SHELVES
 030	069	DOORS	01	On the Walls	005	Sliding mirrored-door closet, one side open	STEP STOOL, PLASTIC BAG
 030	070	TOYS	03	On the Walls	006	Navy blue foam bopper	CLOSET
 030	071	CLOTHING	06	On the Walls	007	Pile of white t-shirts, one yellow rag, pile of black items, one folded pair of blue jeans (worn heavily around the pockets)	CLOSET
@@ -75,18 +76,18 @@ User ID #	Item #	Item Type	Item Type Modifier	Category	Category Item #	Descripti
 030	074	TAPE		On the Walls	010	White masking (?) tape and duct tape	CLOSET
 030	075	CLOTHING	07	On the Walls	011	Clothing on hagers: a blue tie, a yellow Hufflepuff tie, four hoodies, several long-sleeve button-down shirts, a few shortsleeve button-down shirts	CLOSET
 030	076	BLANKETS		On the Walls	012	Blankets, towels, and sleeping bag	CLOSET
-030	077	POSTERS	02	On the Walls	013	Colorful poster of an epcot-esque building, reads: 'battles, Buke and Gase, Friday October 9, 2015, The Filmore'	CLOSET, SHELVES
+030	077	POSTERS	02	On the Walls	013	Colorful poster of an epcot-esque building, reads: "Battles, Buke and Gase, Friday October 9, 2015, The Filmore"	CLOSET, SHELVES
 030	078	SHELVES	02	On the Walls	014	Two mounted long shelves with milk crates on top; milk crates contain cords, boxes, and other misc, too high to reach without stepstool	CLOSET, POSTER, HAMMOCK
 030	079	ART SUPPLIES	07	On the Walls	015	Dark grey paper cutter with orange measuring lines (mounted on wall at a slant)	HAMMOCK, SHELVES
 030	080	BEDS		On the Walls	016	Red Eno hammock folded inside bag, hanging from a hook in the wall	END TABLE, PAPER CUTTER
 030	081	DOORS	02	On the Walls	017	Closed door with deadbolt, appears to lead outside; gold hooks on door contain an empty black plastic hanger with metal hook, and an olive green camelbak backpack	MILK CRATES, CURTAIN RODS
 030	082	POSTERS	03	On the Walls	018	White (self-printed?) sheet of paper, containing 6 rows of items that progressively get larger: hair brush, hamburger, eggs, human faces, empty soda bottles ...	CURTAIN RODS, CORK BOARD
-030	083	PINBOARDS		On the Walls	019	Brown corkboard, pinned with many hand-written notes ('Circle words make a generated room', 'gifts for double', 'sycamore altar' ...), a See's candies one pound gift certificate, YBCA gallery pass, two comic strips, keys, a plastic baggie containing several sheets of 1"x1.5" colored paper squares, a black pony tail holder, a plane ticket, and a claim ticket locker number	POSTER, CALENDAR
+030	083	PINBOARDS		On the Walls	019	Brown corkboard, pinned with many hand-written notes ("Circle words make a generated room", "gifts for double", "sycamore altar" ...), a See's candies one pound gift certificate, YBCA gallery pass, two comic strips, keys, a plastic baggie containing several sheets of 1"x1.5" colored paper squares, a black pony tail holder, a plane ticket, and a claim ticket locker number	POSTER, CALENDAR
 030	084	CALENDARS	01	On the Walls	020	A minimalist paper calendar, showing November	PINBOARD, PAPER ART
 030	085	ART	02	On the Walls	021	A small layered art piece with paper and glass	PINBOARD, LAMP
 030	086	CALENDARS	02	On the Walls	022	A red, blue, and white pop-art esque paper calendar, showing June; illustration is of a sitting cat	LAMP, WINDOW
-030	087	SHELVES	03	On the Walls	023	Milk crate shelf, mounted approx 2' above the floor (presumed height of assembled hammock); contains papers, a chapbook, a board game (?), and a very large white crystal	
+030	087	SHELVES	03	On the Walls	023	Milk crate shelf, mounted approx 2' above the floor (presumed height of hammock, when in use); contains papers, a chapbook, a board game (?), and a very large white crystal	
 030	088	WINDOWS	02	On the Walls	024	Curtainless window with closed blinds	CALENDAR, MILK CRATE BOOKSHELF
 030	089	HOOKS		On the Walls	025	Silver hook, for other end of hammock (when assembled)	WINDOW, ART WALL
-030	090	ART	03	On the Walls	026	Collage of different pictures, posters, papers, and art works covering 3/4 of the wall: Honor student of the week, 2nd place badge, American Marriage Ministries certification, Parkour Level One Instructor, Parkour Level 2 certificate in Parkour/Freerunning,a white and black map, a large fake check for $1,000, a Yoko Ono ticket, over a dozen postcards with hand-written notes, a photograph of a woman (turned sideways), a ticket to Seoul, a necklace that says 'Vote the Crystallist', a #3 Uno card, a group photo in a blue room, a key hole patch, a bottle of sand (?), a picture of fire	BEAN BAG
+030	090	ART	03	On the Walls	026	Collage of different pictures, posters, papers, and art works covering 3/4 of the wall: Honor student of the week, 2nd place badge, American Marriage Ministries certification, Parkour Level One Instructor, Parkour Level 2 certificate in Parkour/Freerunning,a white and black map, a large fake check for $1,000, a Yoko Ono ticket, over a dozen postcards with hand-written notes, a photograph of a woman (turned sideways), a ticket to Seoul, a necklace that says "Vote the Crystallist", a #3 Uno card, a group photo in a blue room, a key hole patch, a bottle of sand (?), a picture of fire	BEAN BAG
 030	091	WALLS		On the Walls	027	White	N/A
