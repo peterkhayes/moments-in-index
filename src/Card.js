@@ -1,15 +1,20 @@
 /* eslint-disable no-use-before-define */
 const React = require("react");
 
+const MISSING = "[missing]";
+const ON_THE_FLOOR = "on the floor";
+const FURNITURE = "furniture";
+const ON_THE_WALLS = "on the walls";
+
 function getCategoryLookup (category) {
   switch (fixCategory(category).toLowerCase()) {
-    case "[missing]":
+    case MISSING:
       return "00";
-    case "on the floor":
+    case ON_THE_FLOOR:
       return "01";
-    case "furniture":
+    case FURNITURE:
       return "02";
-    case "on the walls":
+    case ON_THE_WALLS:
       return "03";
     default:
       console.error(`bad category: ${category}`);
@@ -46,7 +51,7 @@ export default function Card ({
   return (
     <div className="border" style={cardStyle} onClick={onClick}>
       <div style={idStyle}>
-        {userId}.{getCategoryLookup(category)}.{categoryNum || "000"}
+        {userId}.{getCategoryLookup(category)}.{categoryNum || ""}
       </div>
       <div style={isLong ? longMainContentStyle : mainContentStyle}>
         <div>{fixCategory(category)}</div>
