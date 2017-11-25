@@ -105,6 +105,10 @@ function getSheetData () {
         return flattened;
       }
     })
+    .then((data) => {
+      console.log("Loaded", data.length, "cards");
+      return data;
+    })
     .catch((err) => {
       console.error("error loading data:", err);
     });
