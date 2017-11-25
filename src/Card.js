@@ -1,3 +1,4 @@
+/* eslint-disable no-use-before-define */
 const React = require("react");
 
 function getCategoryLookup (category) {
@@ -109,4 +110,3 @@ const countStyle = {
   right: "0.2in",
   fontSize: "10px",
 };
-

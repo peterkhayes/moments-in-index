@@ -2,7 +2,7 @@ import React from "react";
 import Card  from "./Card";
 
 class App extends React.Component {
-  
+
   constructor () {
     super();
     this.state = {};
@@ -66,18 +66,46 @@ function getSheetData () {
       const sheetIds = data.sheets
         .map((sheet) => sheet.properties.title)
         .filter((name) => name !== OMITTED_SHEET_NAME);
-      
-      const promises = sheetIds.map((sheetName) => request(`/values/${sheetName}!A2:H200`))
+
+      const promises = sheetIds.map((sheetName) => request(`/values/${sheetName}!A2:I200`))
       return Promise.all(promises);
     })
     .then((data) => data.map((sheetData) => {
       return sheetData.values
-        .map(([userId = "", itemId = "", itemType = "", itemTypeModifier = "", category = "", categoryNum = "", description = "", nearby = ""]) => ({
-          userId, itemId, itemType, itemTypeModifier, category, categoryNum, description, nearby,
+        .map(([
+          userId = "",
+          itemId = "",
+          itemType = "",
+          itemTypeModifier = "",
+          category = "",
+          categoryNum = "",
+          description = "",
+          nearby = "",
+          print = "",
+        ]) => ({
+          userId,
+          itemId,
+          itemType,
+          itemTypeModifier,
+          category,
+          categoryNum,
+          description,
+          nearby,
+          print,
           totalUserCount: sheetData.values.length,
           uniqueId: `${userId}-${itemId}`,
-        }))
-        ;
+        }));
     }))
-    .then((data) => data.reduce((acc, data) => acc.concat(data), []));
+    .then((data) => {
+      const flattened = data.reduce((acc, data) => acc.concat(data), []);
+      // if the `print` column is used in any rows, only show these rows.
+      if (flattened.some(({print}) => print)) {
+        return flattened.filter(({print}) => print);
+      } else {
+        return flattened;
+      }
+    })
+    .catch((err) => {
+      console.error("error loading data:", err);
+    });
 }
